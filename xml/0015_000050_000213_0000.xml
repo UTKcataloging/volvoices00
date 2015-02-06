@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor: Tennessee State Library and Archives --> 
+<!-- Admin DB Institution: Tennessee State Library and Archives --> 
+<!-- Timestamp:  Tue Dec 19 13:48:21 CST 2006  --> 
+<!-- FILENAME: C:/Scan/00/xml/0015_000050_000213_0000.xml -->   
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: --> 
+<!-- RELOAD: Fri Apr 13 16:01:37 EDT 2007 --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: --> 
+<mods:titleInfo>
+<mods:title>Question is Will They Get Through in Time for the Presidential Election?</mods:title>
+</mods:titleInfo>
+<mods:name  type="personal">
+<mods:namePart type="family">Pernja</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Illustrator</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated  keyDate="yes"  encoding="w3cdtf">1920-08-24</mods:dateCreated>
+<mods:dateIssued  encoding="w3cdtf">1920</mods:dateIssued>
+<mods:place>
+<mods:placeTerm>Portland, OR</mods:placeTerm>
+</mods:place>
+<mods:publisher>Oregonian, Portland, OR</mods:publisher>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >political cartoon</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent> 1 digital images digital images;  1 cartoon;  7 x 12 in.</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This political cartoon shows Colonel Tennessee spreading tacks along the road traveled by a group of women in a Suffrage Ratification car. The tacks represent &#x0027;legal technicalities&#x0027; used by suffrage opponents in an attempt to stop the ratification of the 19th Amendment. Henry Romeike, Inc. of New York, NY provided this clipping to Carrie Chapman Catt.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Women -- Suffrage – Tennessee </mods:topic>
+<mods:topic>Constitutional amendments -- United States -- Ratification</mods:topic>
+<mods:topic>Presidential elections -- United States 1920</mods:topic>
+</mods:subject>
+<mods:subject authority="tgm">
+<mods:topic>Political cartoons 1910-1920</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.7</mods:temporal>
+<mods:topic>B.9</mods:topic>
+<mods:topic>D.25</mods:topic>
+<mods:topic>D.5</mods:topic>
+<mods:topic>D.20</mods:topic>
+<mods:geographic>C.19</mods:geographic>
+</mods:subject>
+<mods:subject >
+<mods:topic>Colonel Tennessee</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0015_000050_000213_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Tennessee State Library and Archives</mods:physicalLocation>
+<mods:physicalLocation type="city">Nashville</mods:physicalLocation>
+<mods:physicalLocation type="state">TN</mods:physicalLocation>
+<mods:physicalLocation type="county">C.19</mods:physicalLocation>
+<mods:physicalLocation type="detail">Catt, Carrie Chapman Papers, 1916-1921, Box 4, Folder 9</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2006-12-01</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001198</mods:accessCondition>
+</mods:mods>
+
+

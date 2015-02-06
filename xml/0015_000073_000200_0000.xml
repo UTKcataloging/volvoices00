@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Lori Lockhart -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Thu Aug 30 09:24:00 CDT 2007 -->  
+<!-- BATCH_ID: 071115 -->
+<!-- FILENAME: C:\Scan\00\xml\0015_000073_000200_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Robert Massengill Porter Sketch</mods:title>
+</mods:titleInfo>
+<mods:name  type="personal">
+<mods:namePart type="family">Battre</mods:namePart>
+<mods:namePart type="given">J. C.</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Engraver</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name  type="personal" authority="LCNAF">
+<mods:namePart type="family">Porter</mods:namePart>
+<mods:namePart type="given">Robert Massengill</mods:namePart>
+<mods:namePart type="date">1818-1856</mods:namePart>
+<mods:description>Professor of Anatomy and Physiology at the University of Nashville</mods:description>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Associated name</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated  keyDate="yes"  encoding="w3cdtf">..</mods:dateCreated>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >engravings (prints)</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 linear foot</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This is an engraving of Robert Massengill Porter.  Robert Massengill Porter was the first professor of Anatomy and Physiology in the Medical Department at the University of Nashville.  He was married to Felicia Grundy Porter, daughter of Felix Grundy.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>University of Nashville. Medical Department.</mods:topic>
+<mods:topic>University of Nashville</mods:topic>
+<mods:topic>Porter, Robert M. (Robert Massengill), 1818-1856</mods:topic>
+<mods:name>
+<mods:namePart>Porter, Robert Massengill, 1818-1856</mods:namePart>
+</mods:name>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.4</mods:temporal>
+<mods:topic>D.6</mods:topic>
+<mods:topic>D.11</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0015_000073_000200_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Tennessee State Library and Archives</mods:physicalLocation>
+<mods:physicalLocation type="city">Nashville</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.19</mods:physicalLocation>
+<mods:physicalLocation type="collection">Felicia Grundy Porter Papers, 1890-1958</mods:physicalLocation>
+<mods:physicalLocation type="accessionNumber">1990-208</mods:physicalLocation>
+<mods:physicalLocation type="detail">Box 2, Folder 1</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-08-30</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

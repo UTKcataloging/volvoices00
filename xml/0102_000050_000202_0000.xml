@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Gregory Hall -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Wed Feb 20 13:08:50 EST 2008 -->  
+<!-- FILENAME: C:\Scan\00\xml\0102_000050_000202_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Theodore Roosevelt Pin</mods:title>
+</mods:titleInfo>
+<mods:name >
+<mods:namePart>unknown</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Creator</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="approximate" keyDate="yes"  encoding="w3cdtf">1905</mods:dateCreated>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>three dimensional object</mods:typeOfResource>
+<mods:genre authority="aat" >buttons (information artifacts)</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 artifact</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This is a campaign button promotes Theodore Roosevelt circa 1905, most likely made for his reelection campaign. It depicts Roosevelt stern-faced and rosy-cheeked with his signature round spectacles.    </mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Campaign insgnia</mods:topic>
+<mods:topic>United States.  President (1901-1909: Roosevelt)</mods:topic>
+<mods:name>
+<mods:namePart>Roosevelt, Theodore, 1858-1919</mods:namePart>
+</mods:name>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.7</mods:temporal>
+<mods:topic>D.10</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0102_000050_000202_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Chester County Public Library</mods:physicalLocation>
+<mods:physicalLocation type="city">Henderson</mods:physicalLocation>
+<mods:physicalLocation type="state">TN</mods:physicalLocation>
+<mods:physicalLocation type="county">C.12</mods:physicalLocation>
+<mods:physicalLocation type="collection">Chester County History</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2008-02-20</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

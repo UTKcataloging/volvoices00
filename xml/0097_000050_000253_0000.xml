@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Elizabeth Doak --> 
+ 
+<!-- Project:  Volunteer Voices --> 
+ 
+<!-- Record Creation Date:  Mon Nov 19 2007 14:50:21 GMT-0500 --> 
+ 
+<!-- BATCH_ID: 071205 -->
+<!-- FILENAME: C:\Scan\00\xml\0097_000050_000253_0000.xml  --> 
+ 
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: --> 
+ 
+<!-- Reload: none -->
+ 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: --> 
+<mods:titleInfo>
+<mods:title>508 M.P.&#x0027;s in Vipiteno, Italy</mods:title>
+</mods:titleInfo>
+<mods:name >
+<mods:namePart>unknown</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Photographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="approximate" keyDate="yes"  encoding="w3cdtf">1945-09-16</mods:dateCreated>
+<mods:place>
+<mods:placeTerm>Vipiteno, Italy</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >black-and-white photographs</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 photograph</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>The 508 M.P. began duty in Munich in July, 1945 and divided the city into three sectors to control a large number of displaced people and their camps. In August of 1945 the troop was relieved of their duty to direct traffic, but maintained a presence in the city to control crime.  The 508 deactivated in 1964, after service in Munich including escorting Eisenhower through the city in 1946.  Vipiteno, Italy was a small town located just south of the German/Italian border. The city&#x0027;s railroad bridge was heavily bombed in 1945 because the city was the main link between Germany and Italy during the war. Many inhabitants of the city speak German, and the city may also be known as Sterzing, Italy. The image shows the Italian basilica The Torre delle Dodici in the background, with the 508 M.P. troops roaming the streets.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Vipiteno (Italy) Buildings, structures, etc.</mods:topic>
+<mods:topic>World War, 1939-1945 Regimental histories United States 508th Infantry</mods:topic>
+<mods:topic>United States. Army Military police History.</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.8</mods:temporal>
+<mods:topic>D.24</mods:topic>
+<mods:geographic>C.71</mods:geographic>
+</mods:subject>
+<mods:subject >
+<mods:topic>Photographs</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0097_000050_000253_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Cookeville History Museum</mods:physicalLocation>
+<mods:physicalLocation type="city">Cookeville</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.71</mods:physicalLocation>
+<mods:physicalLocation type="collection">Gaskell Warren Collection</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-11-19</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

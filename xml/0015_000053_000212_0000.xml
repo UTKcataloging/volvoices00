@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Tiffani Conner -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Wed May 16 10:48:39 EDT 2007 -->  
+<!-- FILENAME: C:\Reworked\00\xml\0015_000053_000212_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>I Can Pick de Winner Wid My Two Eyes Shut</mods:title>
+</mods:titleInfo>
+<mods:name  type="personal">
+<mods:namePart type="family">Sweningson</mods:namePart>
+<mods:namePart type="given">P. </mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Composer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="inferred" keyDate="yes"  encoding="w3cdtf">1899</mods:dateCreated>
+<mods:dateIssued  encoding="w3cdtf">1899</mods:dateIssued>
+<mods:publisher>H.A. French, Nashville, Tennessee</mods:publisher>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >illustration</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital images; 1 illustration; 10.75 x 14.75 in</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>Sheet music cover of minstrel song with blackfaced singer and sterotypical depiction of black couple%3B published in Nashville.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Minstrel songs</mods:topic>
+<mods:topic>Racism in popular culture United States History</mods:topic>
+<mods:topic>Southern States -- Songs and music</mods:topic>
+</mods:subject>
+<mods:subject authority="tgm">
+<mods:topic>Ethnic stereotypes</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.6</mods:temporal>
+<mods:topic>B.6</mods:topic>
+<mods:topic>D.1</mods:topic>
+<mods:topic>D.14</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0015_000053_000212_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Tennessee State Library and Archives</mods:physicalLocation>
+<mods:physicalLocation type="city">Nashville</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.19</mods:physicalLocation>
+<mods:physicalLocation type="collection">Kenneth D. Rose Sheet Music Collection</mods:physicalLocation>
+<mods:physicalLocation type="callNumber">M1630.2 .S94</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2006-09-08</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

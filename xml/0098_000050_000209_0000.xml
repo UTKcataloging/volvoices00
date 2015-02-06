@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Chris Caldwell -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Tue Aug 19 2008 12:21:38 GMT-0400 (EDT) -->  
+<!-- FILENAME: C:\Scan\00\xml\0098_000050_000209_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>The Guardian, A Family Magazine, Devoted to the Cause of Female Education on Christian Principles</mods:title>
+</mods:titleInfo>
+<mods:name  type="corporate">
+<mods:namePart>Smith, Franklin Gillette</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Editor</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name  type="corporate">
+<mods:namePart>Otey, James Hervey</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Editor</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:name  type="corporate">
+<mods:namePart>A. M. &#x0026; J. B. Rosborough, Printers</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Printer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated  keyDate="yes"  encoding="w3cdtf">1842-01</mods:dateCreated>
+<mods:dateIssued  encoding="w3cdtf">1842</mods:dateIssued>
+<mods:publisher>A. M. &#x0026; J. B. Rosborough</mods:publisher>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>text</mods:typeOfResource>
+<mods:genre authority="marcgt" >periodical</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>&#x0022;The Guardian: A Family Magazine, Devoted to the Cause of Female Education on Christian Principles&#x0022; was founded by Reverend Franklin Gillette Smith while he led The Columbia Female Institute in Columbia, Tennessee. He continued to publish The Guardian when after he left the institute to form his own female college, The Athenaeum in 1851.  He resigned after a scandal and started his own female  Smith listed as &#x0022;editor and proprietor&#x0022; also an author Otey gave &#x0022;aid&#x0022; - so list as an associated name  The magazine was issued monthly and cost $1.50/year.   Printed by A. M. &#x0026; J. B. Rosborough  The Athenaeum has issues of The Guardian for the years 1841-1854.  1 tif</mods:abstract>
+<mods:subject authority="vv">
+<mods:temporal>A.4</mods:temporal>
+</mods:subject>\n<mods:subject>\n<mods:topic>Tennessee History</mods:topic>\n</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0098_000050_000209_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">The Athenaeum Rectory</mods:physicalLocation>
+<mods:physicalLocation type="city">Columbia</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennnessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.58</mods:physicalLocation>
+<mods:physicalLocation type="collection">Historic Collection</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>The Athenaeum Rectory</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2008-08-19</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>\n\n\n

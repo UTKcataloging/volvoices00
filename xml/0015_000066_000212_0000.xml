@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor: Lori Lockhart --> 
+<!-- Admin DB Institution: Tennessee State Library and Archives --> 
+<!-- Record Creation Timestamp: Tue Jun 5 09:39:13 CDT 2007 --> 
+<!-- FILENAME: C:\Scan\00\xml\0015_000066_000212_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- RELOAD: Fri Jan 18 11:01:50 EST 2008 --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: --> 
+<mods:titleInfo>
+<mods:title>Tennessee 1796</mods:title>
+</mods:titleInfo>
+<mods:name  type="personal" authority="LCNAF">
+<mods:namePart type="family">Tanner</mods:namePart>
+<mods:namePart type="given">Henry Schenck</mods:namePart>
+<mods:namePart type="date">1786-1858</mods:namePart>
+<mods:description>American Cartographer, 19th Century</mods:description>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Cartographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="inferred" keyDate="yes"  encoding="w3cdtf">1816</mods:dateCreated>
+<mods:place>
+<mods:placeTerm>Baltimore, Maryland</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>cartographic</mods:typeOfResource>
+<mods:genre authority="marcgt" >map</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1  digital image;  1 map;  11.3 x 9 in.</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>From Lucas, F. A. New and Elegant General Atlas, which contained maps of each of the United States (from TSLA records). Lewis is identified with &#x0022;del&#x0022; and H.S. Tanner with &#x0022;sc&#x0022;. Labels existing counties, towns including Jonesboro, Knoxville, Maryville, Rogersville, Nashville and Clarksville. Middle Tennessee is identified as the Metro District. The site of present-day Memphis is identified as Chickasaw Bluff, and western Tennessee is labeled as belonging to the Chickasaws.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Chickasaw Indians</mods:topic>
+<mods:geographic>Tennessee -- Maps</mods:geographic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.3</mods:temporal>
+<mods:topic>D.15</mods:topic>
+<mods:topic>D.10</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0015_000066_000212_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Tennessee State Library and Archives</mods:physicalLocation>
+<mods:physicalLocation type="city">Nashville</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.19</mods:physicalLocation>
+<mods:physicalLocation type="collection">Map Collection</mods:physicalLocation>
+<mods:physicalLocation type="detail">Map #1863</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-06-05</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+
