@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Michelle Kenley -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Thu Aug 9 11:07:25 CDT 2007 -->  
+<!-- BATCH_ID: 071115 -->
+<!-- FILENAME: C:\Scan\00\xml\0039_000058_000207_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Soldiers Near RC Cola Sign photograph</mods:title>
+</mods:titleInfo>
+<mods:name  type="corporate" authority="LCNAF">
+<mods:namePart>United States Army, Signal Corps</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Photographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated  keyDate="yes"  encoding="w3cdtf">1941-1945</mods:dateCreated>
+<mods:dateIssued  encoding="w3cdtf">1956</mods:dateIssued>
+<mods:place>
+<mods:placeTerm>Tennessee</mods:placeTerm>
+</mods:place>
+<mods:publisher>Middle Tennessee State College, Tennessee</mods:publisher>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >photographs</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1; 4.5 x 3.5 in</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This official Signal Corps photograph pictures two armed soldiers awaiting attack.  The men are located outside of a business bearing a Royal Crown Cola advertisement on its facade.  Permission to use granted by the Nashville Public Library.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>World War 1939-1945 -- Tennessee</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.8</mods:temporal>
+<mods:topic>B.13</mods:topic>
+<mods:topic>D.24</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0039_000058_000207_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Albert Gore Sr. Research Center</mods:physicalLocation>
+<mods:physicalLocation type="city">Murfreesboro</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.75</mods:physicalLocation>
+<mods:physicalLocation type="collection">Eugene Sloan Collection</mods:physicalLocation>
+<mods:physicalLocation type="manuscriptNumber">none</mods:physicalLocation>
+<mods:physicalLocation type="detail">Box 1, Photo #038</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Middle Tennessee State University</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-08-09</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

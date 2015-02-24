@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Elizabeth Doak --> 
+ 
+<!-- Project:  Volunteer Voices --> 
+ 
+<!-- Record Creation Date:  Mon Nov 05 2007 15:42:06 GMT-0500 --> 
+ 
+<!-- BATCH_ID: 071205 -->
+<!-- FILENAME: C:\Scan\00\xml\0097_000050_000205_0000.xml  --> 
+ 
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: --> 
+ 
+<!-- Reload: none -->
+ 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: --> 
+<mods:titleInfo>
+<mods:title>Warren Gaskell reading &#x0022;The Stars and Stripes&#x0022;</mods:title>
+</mods:titleInfo>
+<mods:name >
+<mods:namePart>unknown</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Photographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="inferred" keyDate="yes"  encoding="w3cdtf">1945-08-15</mods:dateCreated>
+<mods:place>
+<mods:placeTerm>Germany</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >postcards</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 postcard</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>In a staged photo printed as a postcard, Gaskell Warren holds the Southern Germany edition of &#x0022;The Stars and Stripes&#x0022; newspaper for August 15, 1945. The headline proclaims: &#x0022;War Ends. Truman Announces Total Surrender.&#x0022; &#x0022;The Stars and Stripes&#x0022; was the daily paper of the U.S. armed forces in Europe, with many editions throughout the continent. During WWI, roving U.S. soldiers wrote for the paper, and many returned to journalism fame after the war. In WWII, &#x0022;The Stars and Stripes&#x0022; was revived, and in addition to the paper, published the 53-book G.I. Stories. The papers contained cartoons, and commentary as well as the news. &#x0022;The Stars and Stripes&#x0022; was created by Illinois soldiers in the Civil War, and continues to be published during present military campaigns.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>The Stars and stripes. Germany ed.</mods:topic>
+<mods:topic>Soldiers&#x0027; writings, American</mods:topic>
+<mods:topic>World War, 1939-1945 -- United States. </mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.8</mods:temporal>
+<mods:topic>D.24</mods:topic>
+<mods:topic>D.3</mods:topic>
+<mods:geographic>C.71</mods:geographic>
+</mods:subject>
+<mods:subject >
+<mods:topic>Newspapers</mods:topic>
+<mods:name>
+<mods:namePart>Warren, Gaskell</mods:namePart></mods:name>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0097_000050_000205_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Cookeville History Museum</mods:physicalLocation>
+<mods:physicalLocation type="city">Cookeville</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.71</mods:physicalLocation>
+<mods:physicalLocation type="collection">Gaskell Warren Collection</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-11-05</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  John Neal -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Wed Apr 23 15:31:14 EDT 2008 -->  
+<!-- FILENAME: C:\Scan\00\xml\0117_000050_000209_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Drawing of the mid-18th century Cherokee village of Chota</mods:title>
+</mods:titleInfo>
+<mods:name  type="personal">
+<mods:namePart type="family">Schroedl</mods:namePart>
+<mods:namePart type="given">Gerald F.</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Cartographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="questionable"  keyDate="yes" encoding="w3cdtf" point="start">1974</mods:dateCreated>
+<mods:dateCreated qualifier="questionable" encoding="w3cdtf" point="end">1984</mods:dateCreated>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>cartographic</mods:typeOfResource>
+<mods:genre authority="aat" >map</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 map</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This drawing depicts the layout of Chota or Echota, an 18th century Overhill Cherokee village. It shows a central village plaza with both a circular winter council house and rectangular summer council house, which were used for public, social, and political events. Shown also are domestic dwellings with the same set-up, a circular winter house alongside a rectangular summerhouse. Also drawn are areas of dense refuse-filled pits. Archeological studies by the University of Tennessee from 1969 -1974 indicate that in the mid -1700&#x0027;s Chota had a population of around 300-500. There were approximately 60 domestic houses surrounding the village plaza that extended along the river for about a mile. Chota was recognized by Europeans as well as other Indians for its powerful social and economic influence and was regarded as the capital of the Cherokee nation. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Directors, J. Worth Greene, Duane H. King, and Gerald F. Schroedl</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Overhill Cherokee Village</mods:topic>
+<mods:topic>Chota</mods:topic>
+<mods:topic>Echota</mods:topic>
+<mods:geographic>Monroe County (Tenn.)</mods:geographic>
+<mods:geographic>Tellico Lake Region (Tenn.)</mods:geographic>
+<mods:name>
+<mods:namePart>Guthe, Alfred K.</mods:namePart>
+</mods:name>
+<mods:name>
+<mods:namePart>King, Duane H.</mods:namePart>
+</mods:name>
+</mods:subject>
+<mods:subject authority="tgm">
+<mods:topic>Cherokee Indians--Antiquities</mods:topic>
+<mods:topic>Architectural drawing</mods:topic>
+<mods:topic>Historic sites</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.2</mods:temporal>
+<mods:topic>D.15</mods:topic>
+<mods:topic>D.2</mods:topic>
+<mods:geographic>C.62</mods:geographic>
+</mods:subject>
+<mods:subject >
+<mods:topic>mm011</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0117_000050_000209_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Frank H. McClung Museum</mods:physicalLocation>
+<mods:physicalLocation type="city">Knoxville</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.47</mods:physicalLocation>
+<mods:physicalLocation type="collection">Frank H. McClung Museum Photographic Collection</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2008-04-23</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

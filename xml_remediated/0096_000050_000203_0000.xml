@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  John Neal -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Thu Feb 14 09:23:37 EST 2008 -->  
+<!-- FILENAME: C:\Scan\00\xml\0096_000050_000203_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Early Colonists in Rugby, Tennessee</mods:title>
+</mods:titleInfo>
+<mods:name >
+<mods:namePart>unknown</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Printer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="questionable"  keyDate="yes" encoding="w3cdtf" point="start">1870</mods:dateCreated>
+<mods:dateCreated qualifier="questionable" encoding="w3cdtf" point="end">1910</mods:dateCreated>
+<mods:dateIssued qualifier="questionable" encoding="w3cdtf">1900</mods:dateIssued>
+<mods:publisher>unknown, unknown</mods:publisher>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >black-and-white photograph</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 picture</mods:extent>
+</mods:physicalDescription>
+<mods:abstract> This photograph is titled, &#x0022;Early Colonists in Rugby, Tennessee&#x0022;. Rugby was a utopian effort to bring together British upper-class citizens with entrepreneurial middle class Americans. &#x0022;Madame Hughes in center&#x0022;, is written on the picture. </mods:abstract>
+<mods:subject authority="lcsh">
+<mods:geographic>Rugby (Tenn.)</mods:geographic>
+<mods:geographic>Morgan County (Tenn.) </mods:geographic>
+<mods:name>
+<mods:namePart>Hughs, Madame</mods:namePart>
+</mods:name>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.6</mods:temporal>
+<mods:topic>D.12</mods:topic>
+<mods:topic>D.20</mods:topic>
+<mods:geographic>C.65</mods:geographic>
+<mods:geographic>C.28</mods:geographic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0096_000050_000203_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Giles County Historical Society</mods:physicalLocation>
+<mods:physicalLocation type="city">Pulaski</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.28</mods:physicalLocation>
+<mods:physicalLocation type="collection">Postcard Collection</mods:physicalLocation>
+<mods:physicalLocation type="manuscriptNumber">976.861</mods:physicalLocation>
+<mods:physicalLocation type="detail">Postcards</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2008-02-14</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

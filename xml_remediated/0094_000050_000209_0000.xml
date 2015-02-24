@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Gregory Hall -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Tue Dec 18 12:37:17 EST 2007 -->  
+<!-- BATCH_ID: 071205 -->
+<!-- FILENAME: C:\Scan\00\xml\0094_000050_000209_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Medicine Carrying Case</mods:title>
+</mods:titleInfo>
+<mods:name  type="personal">
+<mods:namePart type="family">Wilson </mods:namePart>
+<mods:namePart type="given">Cas</mods:namePart>
+<mods:namePart type="date">1891-1956</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Owner</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated   keyDate="yes" encoding="w3cdtf" point="start">1910</mods:dateCreated>
+<mods:dateCreated  encoding="w3cdtf" point="end">1930</mods:dateCreated>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>three dimensional object</mods:typeOfResource>
+<mods:genre authority="aat" >medicine chests</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 item</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This is the leather satchel carried by Dr. Cas Wilson when he practiced medicine at the age of twenty-two in and around the nearby village of old Loyston, Tennessee.  The carrying case contains 87 vials, bottles, and cans of medicine, including a variety of pills.  Mr. Wilson received his medical degree from the Memphis School of Medicine in 1913.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Medicine</mods:topic>
+<mods:geographic>Memphis (Tenn.)</mods:geographic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.7</mods:temporal>
+<mods:topic>D.11</mods:topic>
+<mods:topic>D.22</mods:topic>
+</mods:subject>
+<mods:subject >
+<mods:topic>Medicine chest</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0094_000050_000209_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Museum of Appalachia</mods:physicalLocation>
+<mods:physicalLocation type="city">Norris</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.1</mods:physicalLocation>
+<mods:physicalLocation type="collection">Museum of Appalachia</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-12-18</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

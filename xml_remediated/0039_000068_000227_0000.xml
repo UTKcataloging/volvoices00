@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Amanda Hall -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Thu Apr 24 2008 11:46:25 GMT-0500 (Central Daylight Time) -->  
+<!-- FILENAME: C:\Scan\00\xml\0039_000068_000227_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Pledges of Alpha Gamma Pi</mods:title>
+</mods:titleInfo>
+<mods:name  type="corporate" authority="LCNAF">
+<mods:namePart>Middle Tennessee State University</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Photographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="inferred"  keyDate="yes" encoding="w3cdtf" point="start">1969</mods:dateCreated>
+<mods:dateCreated qualifier="inferred" encoding="w3cdtf" point="end">1985</mods:dateCreated>
+<mods:place>
+<mods:placeTerm>Murfreesboro, Tennessee</mods:placeTerm>
+</mods:place>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >black-and-white photographs</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 photograph</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>The first sorority on campus was Alpha Gamma Pi.  MTSU&#x0027;s chapter formed in 1969.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Middle Tennessee State University</mods:topic>
+<mods:topic>Fraternal organizations</mods:topic>
+<mods:topic>African American women</mods:topic>
+<mods:geographic>Murfreesboro (Tenn.) -- Schools</mods:geographic>
+<mods:geographic>Murfreesboro (Tenn.) -- Photographs</mods:geographic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.10</mods:temporal>
+<mods:topic>B.15</mods:topic>
+<mods:topic>D.6</mods:topic>
+<mods:topic>D.1</mods:topic>
+<mods:topic>D.25</mods:topic>
+<mods:geographic>C.75</mods:geographic>
+</mods:subject>
+<mods:subject >
+<mods:topic>Alpha Gamma Pi</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0039_000068_000227_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Albert Gore Sr. Research Center</mods:physicalLocation>
+<mods:physicalLocation type="city">Murfreesboro</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.75</mods:physicalLocation>
+<mods:physicalLocation type="collection">MTSU News and Public Affairs Photograph Collection</mods:physicalLocation>
+<mods:physicalLocation type="otherIdentificationNumber">33</mods:physicalLocation>
+<mods:physicalLocation type="detail">News and Public Affairs, #912</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Middle Tennessee State University, Gore Center</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2008-04-24</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

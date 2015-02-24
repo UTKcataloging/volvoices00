@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Alison Bentley -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Wed Oct 3 13:21:50 EDT 2007 -->  
+<!-- BATCH_ID: 071115 -->
+<!-- FILENAME: C:\Scan\00\xml\0085_000050_000212_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 1: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: --> 
+<mods:titleInfo>
+<mods:title>Columbian Paper Company in Bristol, Virginia</mods:title>
+</mods:titleInfo>
+<mods:name  type="corporate">
+<mods:namePart>Kelly and Green Company</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Creator</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated  keyDate="yes"  encoding="w3cdtf">1931</mods:dateCreated>
+<mods:dateIssued  encoding="w3cdtf">1931</mods:dateIssued>
+<mods:place>
+<mods:placeTerm>Bristol, Virginia</mods:placeTerm>
+</mods:place>
+<mods:publisher>Kelly and Green Company, Bristol, Virginia</mods:publisher>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >postcards</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital image; 1 postcard</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>This is a postcard of the Columbian Paper Company located in Bristol, Virginia.  At the beginning of the 20th century, the development of pulp and paper mills in the area of Bristol enabled the timber industry to make profits off the cutting of smaller trees.</mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>Paper industry -- Bristol (Va.)</mods:topic>
+</mods:subject>
+<mods:subject authority="tgm">
+<mods:topic>Postcards</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.8</mods:temporal>
+<mods:topic>D.22</mods:topic>
+<mods:geographic>C.82</mods:geographic>
+</mods:subject>
+<mods:subject >
+<mods:name>
+<mods:namePart>Columbian Paper Company</mods:namePart></mods:name>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0085_000050_000212_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Bristol Historical Association</mods:physicalLocation>
+<mods:physicalLocation type="city">Bristol</mods:physicalLocation>
+<mods:physicalLocation type="state">Tennessee</mods:physicalLocation>
+<mods:physicalLocation type="county">C.82</mods:physicalLocation>
+<mods:physicalLocation type="collection">Bristol Historical Association</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>University of Tennessee Special Collections Library</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-10-03</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+

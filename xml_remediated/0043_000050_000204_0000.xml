@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" 
+ xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns="http://www.loc.gov/mods/v3" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.loc.gov/mods/v3 
+ http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" ID="MODS" version="3.2"><!-- Volunteer Voices MODS profile 
+ released 14 December 2006 by Melanie Feltner-Reichert -->
+<!-- Volunteer Voices Workbook 
+ version 1.0 released 6 February 2007 by Christine Haygood Deane  -->
+<!-- Content Contributor:  Genny Carter -->  
+<!-- Project:  Volunteer Voices -->  
+<!-- Record Creation Date:  Mon Apr 23 17:00:07 CDT 2007 -->  
+<!-- BATCH_ID: 071115 -->
+<!-- FILENAME: C:\Scan\00\xml\0043_000050_000204_0000.xml  -->  
+<!-- NUMBER_OF_CONSTITUENT_FILES: 01: -->  
+<!-- Reload: none --> 
+<!-- PAGE VALIDATION :1:1:1:1:1:1:1: -->  
+<mods:titleInfo>
+<mods:title>Gallatin, Tennessee native, Lt. Sidney D. Hix, USNR, skipper of torpedo boat 108</mods:title>
+</mods:titleInfo>
+<mods:name >
+<mods:namePart>unknown</mods:namePart>
+<mods:role>
+<mods:roleTerm authority="marcrelator">Photographer</mods:roleTerm>
+</mods:role>
+</mods:name>
+<mods:originInfo>
+<mods:dateCreated qualifier="inferred"  keyDate="yes" encoding="w3cdtf" point="start">1942</mods:dateCreated>
+<mods:dateCreated qualifier="inferred" encoding="w3cdtf" point="end">1943</mods:dateCreated>
+</mods:originInfo>
+<mods:language>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:language>
+<mods:typeOfResource>still image</mods:typeOfResource>
+<mods:genre authority="aat" >black-and-white photographs</mods:genre>
+<mods:physicalDescription>
+<mods:digitalOrigin>reformatted digital</mods:digitalOrigin>
+<mods:internetMediaType>image/jpeg</mods:internetMediaType>
+<mods:extent>1 digital images; 1 photograph</mods:extent>
+</mods:physicalDescription>
+<mods:abstract>In this photograph, Gallatin, Tennessee native, Lt. (j.g.) Sidney D. Hix, USNR, appeared aboard torpedo boat 108, for which he was the skipper. A 1942 graduate of Vanderbilt University, Lt. Hix died of wounds received in action in the British Solomon Islands 22 Aug 1943. John F. Kennedy was on similar duty on PT 109 at this time in the same area.  </mods:abstract>
+<mods:subject authority="lcsh">
+<mods:topic>World War, 1939-1945 -- Military personnel -- United States</mods:topic>
+<mods:topic>Torpedo boats</mods:topic>
+</mods:subject>
+<mods:subject authority="vv">
+<mods:temporal>A.8</mods:temporal>
+<mods:topic>B.13</mods:topic>
+<mods:topic>D.24</mods:topic>
+<mods:topic>D.23</mods:topic>
+</mods:subject>
+<mods:relatedItem type="constituent">
+<mods:identifier type="local">0043_000050_000204_0001</mods:identifier>
+</mods:relatedItem >
+<mods:identifier type="uri"></mods:identifier>
+<mods:location>
+<mods:physicalLocation type="repository">Sumner County Archives</mods:physicalLocation>
+<mods:physicalLocation type="city">Gallatin</mods:physicalLocation>
+<mods:physicalLocation type="state">TN</mods:physicalLocation>
+<mods:physicalLocation type="county">C.83</mods:physicalLocation>
+<mods:physicalLocation type="collection">Photograph Collection</mods:physicalLocation>
+<mods:physicalLocation type="detail">Box 64, no. 35</mods:physicalLocation>
+<mods:url>Jody</mods:url>
+</mods:location>
+<mods:recordInfo>
+<mods:recordContentSource>Tennessee State Library and Archives</mods:recordContentSource>
+<mods:recordCreationDate encoding="w3cdtf">2007-04-23</mods:recordCreationDate>
+<mods:languageOfCataloging>
+<mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
+</mods:languageOfCataloging>
+</mods:recordInfo>
+<mods:accessCondition type="useAndReproduction">http://idserver.utk.edu/?id=200600000001200</mods:accessCondition>
+</mods:mods>
+
+
