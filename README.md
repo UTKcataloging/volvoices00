@@ -14,4 +14,5 @@ This repo contains the o.g. MODS for images from Volvoices.
 3. In OpenRefine, external wrappers (modsCollection, mods) were removed for working with flat(er) data. 
 4. All mods:genre terms reconciled with AAT alone, URIs added for terms. MARCGT terms mapped to AAT for sake of consistency.
 5. Removing mods:note@type=museumCredit - very limited use, in 1 instance was for a publisher not a museum, in another instance was for a Special Collections repostiory. Reproduces data already parsed and available in mods:locaion and mods:originInfo>mods:publisher (among other relevant datapoints). Does not appear to be indexed or even displayed in current public interface regardless.
-6.   
+6. Abstracts - minor remediation (removing of trailing white space, skimmed for errors). No real repairs done currently; will use for filling out missing datapoints in other elements (location, date, etc) where possible.
+7.    
