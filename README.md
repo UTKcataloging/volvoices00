@@ -1,5 +1,5 @@
-# About this Silly Repo
-#### February 6, 2015
+# Notes on Repo and of Metadata Remediation
+#### last updated February 26, 2015
 
 ---
 
@@ -21,4 +21,5 @@ This repo contains the o.g. MODS for images from Volvoices.
 10. Language: good to see use of zxx for items with no linguistic content. Suspicion that 1721 items marked English are not all English, but there are other instances of items with no linguistic content (photographs) that were simply marked eng. Too timely to review this now as would require item by item viewing. Marked for future guidance and documentation however.
 11. Publishers: too much information included in these datapoints; should be just the publishers' names without publisher location information (this gets stored in mods:place). Transcribing the publishers' names as found on the item is assumed and so the values are left as-is. Publisher location information moved from mods:publisher to mods:placeTerm.
 12. Publishers cont: geographic content moved to place. Publishers left as is, since should be transcribed directly from source. Publishers that are not publishers but rather hosts - i.e., newspapers and magazines - are being moved to mods:relatedItem@type='host' with any relevant issue/part information put there.
-13.      
+13. Place: mods:place being reconciled with LCNAF. Question of reconciling against GeoNames instead is worth further discussion - boils down to text label versus better URI, dataset API/records. To be discussed as part of digital projects group. 
+14.      
