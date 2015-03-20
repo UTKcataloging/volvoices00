@@ -34,8 +34,12 @@
             </identifier>
         </xsl:if>
     <!-- Name -->
-        <xsl:apply-templates select="name_1"/>
-        <xsl:apply-templates select="name"/>
+        <xsl:apply-templates select="name_personal_1"/>
+        <xsl:apply-templates select="name_corporate_1"/>
+        <xsl:apply-templates select="name_personal_2"/>
+        <xsl:apply-templates select="name_corporate_2"/>
+        <xsl:apply-templates select="name_personal_3"/>
+        <xsl:apply-templates select="name_corporate_3"/>
     <!-- titleInfo -->
         <titleInfo>
             <xsl:if test="title_initial_article">
@@ -59,7 +63,7 @@
                 </xsl:attribute>
                 <title>
                     <xsl:value-of select="title_2"/>
-                </title>
+                </title>q
                 <xsl:if test="title_of_part_2">
                     <partName>
                         <xsl:value-of select="title_of_part_2"/>
@@ -232,43 +236,131 @@
 <!-- End Item Record Template -->
     
 <!-- SUBTEMPLATES -->
-    <xsl:template match="name_1">
-            <name usage="primary">
-                <xsl:if test="../name_type_1">
-                    <xsl:attribute name="type"><xsl:value-of select="../name_type_1"/></xsl:attribute>
-                </xsl:if>
-                <xsl:if test="../name_authority_1">
-                    <xsl:attribute name="authority"><xsl:value-of select="../name_authority_1"/></xsl:attribute>
-                    <xsl:attribute name="valueURI"><xsl:value-of select="../name_authority_URI_1"/></xsl:attribute>
+    <xsl:template match="name_corporate_1">
+            <name type="corporate">
+                <xsl:if test="../name_corporate_authority_1">
+                    <xsl:attribute name="authority"><xsl:value-of select="../name_corporate_authority_1"/></xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../name_corporate_URI_1"/></xsl:attribute>
                 </xsl:if>
                 <namePart>
                     <xsl:value-of select="."/>
                 </namePart>
-                <xsl:if test="../name_role_1">
+                <xsl:if test="../name_role_1_1">
                     <role>
-                        <roleTerm type="text" authority="marcrelator"><xsl:if test="../name_role_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1"/></xsl:attribute></xsl:if>
-                            <xsl:value-of select="../name_role_1"/>                        
+                        <roleTerm type="text" authority="marcrelator">
+                            <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
+                            <xsl:value-of select="../name_role_1_1"/>                        
+                        </roleTerm>
+                    </role>
+                </xsl:if>
+                <xsl:if test="../name_role_1_2">
+                    <role>
+                        <roleTerm type="text" authority="marcrelator">
+                            <xsl:if test="../name_role_1_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_2"/></xsl:attribute></xsl:if>
+                            <xsl:value-of select="../name_role_1_2"/>                        
                         </roleTerm>
                     </role>
                 </xsl:if>
             </name>
     </xsl:template>
-    <xsl:template match="name">
-        <name>
-            <xsl:if test="../name_type">
-                <xsl:attribute name="type"><xsl:value-of select="../name_type"/></xsl:attribute>
-            </xsl:if>
-            <xsl:if test="../name_authority">
-                <xsl:attribute name="authority"><xsl:value-of select="../name_authority"/></xsl:attribute>
-                <xsl:attribute name="valueURI"><xsl:value-of select="../name_authority_URI"/></xsl:attribute>
+    <xsl:template match="name_corporate_2">
+        <name type="corporate">
+            <xsl:if test="../name_corporate_authority_2">
+                <xsl:attribute name="authority"><xsl:value-of select="../name_corporate_authority_2"/></xsl:attribute>
+                <xsl:attribute name="valueURI"><xsl:value-of select="../name_corporate_authority_URI_2"/></xsl:attribute>
             </xsl:if>
             <namePart>
                 <xsl:value-of select="."/>
             </namePart>
-            <xsl:if test="../name_role">
+            <xsl:if test="../name_role_2">
                 <role>
-                    <roleTerm type="text" authority="marcrelator"><xsl:if test="../name_role"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI"/></xsl:attribute></xsl:if>
-                        <xsl:value-of select="../name_role"/>                        
+                    <roleTerm type="text" authority="marcrelator">
+                        <xsl:if test="../name_role_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_2"/></xsl:attribute></xsl:if>
+                        <xsl:value-of select="../name_role_2"/>                        
+                    </roleTerm>
+                </role>
+            </xsl:if>
+        </name>
+    </xsl:template>
+    <xsl:template match="name_corporate_3">
+        <name type="corporate">
+            <xsl:if test="../name_corporate_authority_3">
+                <xsl:attribute name="authority"><xsl:value-of select="../name_corporate_authority_3"/></xsl:attribute>
+                <xsl:attribute name="valueURI"><xsl:value-of select="../name_corporate_authority_URI_3"/></xsl:attribute>
+            </xsl:if>
+            <namePart>
+                <xsl:value-of select="."/>
+            </namePart>
+            <xsl:if test="../name_role_3">
+                <role>
+                    <roleTerm type="text" authority="marcrelator">
+                        <xsl:if test="../name_role_3"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_3"/></xsl:attribute></xsl:if>
+                        <xsl:value-of select="../name_role_3"/>                        
+                    </roleTerm>
+                </role>
+            </xsl:if>
+        </name>
+    </xsl:template>
+    <xsl:template match="name_personal_1">
+        <name type="personal">
+            <xsl:if test="../name_personal_authority_1">
+                <xsl:attribute name="authority"><xsl:value-of select="../name_personal_authority_1"/></xsl:attribute>
+                <xsl:attribute name="valueURI"><xsl:value-of select="../name_personal_URI_1"/></xsl:attribute>
+            </xsl:if>
+            <namePart>
+                <xsl:value-of select="."/>
+            </namePart>
+            <xsl:if test="../name_role_1_1">
+                <role>
+                    <roleTerm type="text" authority="marcrelator">
+                        <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
+                        <xsl:value-of select="../name_role_1_1"/>                        
+                    </roleTerm>
+                </role>
+            </xsl:if>
+            <xsl:if test="../name_role_1_2">
+                <role>
+                    <roleTerm type="text" authority="marcrelator">
+                        <xsl:if test="../name_role_1_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_2"/></xsl:attribute></xsl:if>
+                        <xsl:value-of select="../name_role_1_2"/>                        
+                    </roleTerm>
+                </role>
+            </xsl:if>
+        </name>
+    </xsl:template>
+    <xsl:template match="name_personal_2">
+        <name type="personal">
+            <xsl:if test="../name_personal_authority_2">
+                <xsl:attribute name="authority"><xsl:value-of select="../name_personal_authority_2"/></xsl:attribute>
+                <xsl:attribute name="valueURI"><xsl:value-of select="../name_personal_authority_URI_2"/></xsl:attribute>
+            </xsl:if>
+            <namePart>
+                <xsl:value-of select="."/>
+            </namePart>
+            <xsl:if test="../name_role_2">
+                <role>
+                    <roleTerm type="text" authority="marcrelator">
+                        <xsl:if test="../name_role_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_2"/></xsl:attribute></xsl:if>
+                        <xsl:value-of select="../name_role_2"/>                        
+                    </roleTerm>
+                </role>
+            </xsl:if>
+        </name>
+    </xsl:template>
+    <xsl:template match="name_personal_3">
+        <name type="personal">
+            <xsl:if test="../name_personal_authority_3">
+                <xsl:attribute name="authority"><xsl:value-of select="../name_personal_authority_3"/></xsl:attribute>
+                <xsl:attribute name="valueURI"><xsl:value-of select="../name_personal_authority_URI_3"/></xsl:attribute>
+            </xsl:if>
+            <namePart>
+                <xsl:value-of select="."/>
+            </namePart>
+            <xsl:if test="../name_role_3">
+                <role>
+                    <roleTerm type="text" authority="marcrelator">
+                        <xsl:if test="../name_role_3"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_3"/></xsl:attribute></xsl:if>
+                        <xsl:value-of select="../name_role_3"/>                        
                     </roleTerm>
                 </role>
             </xsl:if>
