@@ -11,7 +11,7 @@
     <xsl:template match="root/row">
     <xsl:variable name="filename" select="identifier"/>
     <xsl:result-document method="xml" href="modsxml/{$filename}.xml" encoding="UTF-8" indent="yes">
-        <mods version="3.5">
+        <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
             <xsl:call-template name="record"/>
         </mods>
     </xsl:result-document>
@@ -23,12 +23,7 @@
         <identifier type="local">
             <xsl:value-of select="identifier" />
         </identifier>
-        <xsl:if test="identifier_opac">
-            <identifier type="opac">
-                <xsl:value-of select="identifier_opac"/>
-            </identifier>
-        </xsl:if>
-        <xsl:if test="identifier_filename">
+        <xsl:if test="filename">
             <identifier type="filename">
                 <xsl:value-of select="identifier_filename"/>
             </identifier>
@@ -48,30 +43,10 @@
                 </nonSort>
             </xsl:if>
             <title>
-                <xsl:value-of select="title_of_work"/>
+                <xsl:value-of select="title_work"/>
             </title> 
-            <xsl:if test="title_of_part">
-                <partName>
-                    <xsl:value-of select="title_of_part"/>
-                </partName>
-            </xsl:if>
         </titleInfo>
-        <xsl:if test="title_2">
-            <titleInfo>
-                <xsl:attribute name="type">
-                    <xsl:value-of select="title_type_2" />
-                </xsl:attribute>
-                <title>
-                    <xsl:value-of select="title_2"/>
-                </title>q
-                <xsl:if test="title_of_part_2">
-                    <partName>
-                        <xsl:value-of select="title_of_part_2"/>
-                    </partName>
-                </xsl:if>
-            </titleInfo>
-        </xsl:if>
-    <!-- Internet Media Type of Resource -->
+    <!-- Item Type of Resource -->
         <xsl:apply-templates select="item_type"/>
     <!-- originInfo -->
         <originInfo>
@@ -91,7 +66,7 @@
             </dateCreated>
             <xsl:choose>
                 <xsl:when test="date_range_end">
-                    <dateCreated encoding="w3cdtf" keyDate="yes" point="start">
+                    <dateCreated encoding="edtf" keyDate="yes" point="start">
                         <xsl:if test="date_qualifier">
                             <xsl:attribute name="qualifier">
                                 <xsl:value-of select="date_qualifier"/>
@@ -99,12 +74,12 @@
                         </xsl:if>
                         <xsl:value-of select="date_single"/>
                     </dateCreated>
-                    <dateCreated encoding="w3cdtf" keyDate="yes" point="end">
+                    <dateCreated encoding="edtf" keyDate="yes" point="end">
                         <xsl:value-of select="date_range_end"/>
                     </dateCreated>
                 </xsl:when>
                 <xsl:otherwise>
-                    <dateCreated encoding="w3cdtf" keyDate="yes">
+                    <dateCreated encoding="edtf" keyDate="yes">
                         <xsl:if test="date_qualifier">
                             <xsl:attribute name="qualifier">
                                 <xsl:value-of select="date_qualifier"/>
@@ -115,22 +90,37 @@
                 </xsl:otherwise>
             </xsl:choose>
             <xsl:if test="date_publication">
-                <dateIssued>
+                <dateIssued  encoding="edtf" keyDate="yes">
+                    <xsl:if test="date_publication_qualifier">
+                        <xsl:attribute name="qualifier">
+                            <xsl:value-of select="date_publication_qualifier"/>
+                        </xsl:attribute>
+                    </xsl:if>
                     <xsl:value-of select="date_publication"/>
                 </dateIssued>
             </xsl:if>
         </originInfo>
     <!-- physicalDescription -->
-        <xsl:if test="extent | form | internet_media_type | digital_origin">
+        <xsl:if test="extent | form_1 | form_2 | internet_media_type | digital_origin">
             <physicalDescription>
-                <xsl:apply-templates select="extent_physical"/>
-                <xsl:apply-templates select="form"/>
+                <xsl:apply-templates select="extent"/>
+                <xsl:apply-templates select="form_1"/>
+                <xsl:apply-templates select="form_2"/>
                 <xsl:apply-templates select="internet_media_type" />
                 <xsl:apply-templates select="digital_origin" />
             </physicalDescription>
         </xsl:if>
     <!-- Abstract -->
         <xsl:apply-templates select="abstract"/>
+    <!-- Genre -->
+        <xsl:if test="genre">
+            <genre>
+                <xsl:if test="genre_URI">
+                    <xsl:attribute name="authority">lcgft</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="genre_URI"/></xsl:attribute>
+                </xsl:if>
+            </genre>
+        </xsl:if>
     <!-- Language -->  
         <xsl:apply-templates select="language"/>
     <!-- Notes -->
@@ -167,7 +157,6 @@
         <xsl:apply-templates select="subject_name_2"/>  
         <xsl:apply-templates select="subject_name_3"/>  
         <xsl:apply-templates select="subject_geographic"/>
-        <xsl:call-template name="StreetAddresses"/>
         <xsl:for-each select="subject_temporal">
             <subject>
                 <temporal>
@@ -403,10 +392,15 @@
             <xsl:value-of select="."/>
         </digitalOrigin>
     </xsl:template>
-    <xsl:template match="form">
-        <form>
-            <xsl:attribute name="authority"><xsl:value-of select="../form_authority"/></xsl:attribute>
-            <xsl:attribute name="authority"><xsl:value-of select="../form_URI"/></xsl:attribute>
+    <xsl:template match="form_1">
+        <form authority="aat">
+            <xsl:attribute name="authority"><xsl:value-of select="../form_URI_1"/></xsl:attribute>
+            <xsl:value-of select="."/>
+        </form>
+    </xsl:template>
+    <xsl:template match="form_2">
+        <form authority="aat">
+            <xsl:attribute name="authority"><xsl:value-of select="../form_URI_2"/></xsl:attribute>
             <xsl:value-of select="."/>
         </form>
     </xsl:template>
@@ -420,7 +414,7 @@
             <xsl:value-of select="."/>
         </digitalOrigin>
     </xsl:template>
-    <xsl:template match="extent_physical">
+    <xsl:template match="extent">
         <extent>
             <xsl:value-of select="."/>
         </extent>
