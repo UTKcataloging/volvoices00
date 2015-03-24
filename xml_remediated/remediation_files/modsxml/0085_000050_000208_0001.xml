@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0085_000050_000208_0001</identifier>
+   <identifier type="filename">0085_000050_000208_0001.jpeg</identifier>
+   <name type="personal">
+      <namePart>Willard, Warren</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <name type="corporate">
+      <namePart>Bristol Historical Association</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/com">Compiler</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Courthouse in Bristol, Tennessee</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n81124834">Bristol (Tenn.)</placeTerm>
+      </place>
+      <publisher>b &amp; b Print Media Group</publisher>
+      <dateCreated>between 1915 and 1950</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start">1915</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1950</dateCreated>
+      <dateIssued encoding="edtf" keyDate="yes">1993</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>3 digital images; 3 photographs</extent>
+      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>The courthouse in Bristol, Tennessee served as both city hall and a courthouse when it was built in 1915.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Bristol Historical Association</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Bristol</text>
+               <text>County: Sullivan County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh">
+      <topic>Courthouses--Tennessee--Bristol</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006693">
+      <topic>Architecture--United States</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Architecture</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Government and Politics</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Willard, Warren</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n81124834">Bristol (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.59500N, 82.18861W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n79145814">Sullivan County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.51667N, 82.53333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+      <location>
+         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
+      </location>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0085_000050_000208_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-10-02</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+   </recordInfo>
+</mods>

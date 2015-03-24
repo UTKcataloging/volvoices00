@@ -25,7 +25,7 @@
         </identifier>
         <xsl:if test="filename">
             <identifier type="filename">
-                <xsl:value-of select="identifier_filename"/>
+                <xsl:value-of select="filename"/>
             </identifier>
         </xsl:if>
     <!-- Name -->
@@ -131,16 +131,6 @@
             <physicalLocation>
                 <xsl:value-of select="repository"/>
             </physicalLocation>
-            <xsl:for-each select="location_url_digitalItem">
-                <url access="object in context" usage="primary display">
-                    <xsl:value-of select="."/>
-                </url>
-            </xsl:for-each>
-            <xsl:if test="location_url_physicalItem">
-                <url>
-                    <xsl:value-of select="location_url_physicalItem" />
-                </url>
-            </xsl:if>
             <xsl:if test="subrepository|shelf_locator">
                 <holdingSimple>
                     <copyInformation>
@@ -149,16 +139,123 @@
                     </copyInformation>
                 </holdingSimple>
             </xsl:if>
+            <xsl:if test="holdingsExternal_state | holdingsExternal_county | holdingsExternal_city">
+                <holdingExternal>
+                    <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775" xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+                        <physicalAddress>
+                            <xsl:if test="holdingsExternal_city">
+                                <text><xsl:value-of select="concat('City: ', holdingsExternal_city)"/></text>
+                            </xsl:if>
+                            <xsl:if test="holdingsExternal_county">
+                                <text><xsl:value-of select="concat('County: ', holdingsExternal_county)"/></text>
+                            </xsl:if>
+                            <xsl:if test="holdingsExternal_state">
+                                <text><xsl:value-of select="concat('State: ', holdingsExternal_state)"/></text>
+                            </xsl:if>
+                        </physicalAddress>
+                    </holding>
+                </holdingExternal>
+            </xsl:if>
         </location>
     <!-- Subject -->  
+        <xsl:if test="classification_number">
+            <classification authority="lcc">
+                <xsl:value-of select="classification_number" />
+            </classification>
+        </xsl:if>
         <xsl:apply-templates select="subject_topical_1"/>
         <xsl:apply-templates select="subject_topical_2"/>
+        <xsl:apply-templates select="subject_topical_3"/>
+        <xsl:apply-templates select="subject_topical_4"/>
+        <xsl:apply-templates select="subject_topical_5"/>
+        <xsl:apply-templates select="subject_topical_6"/>
+        <xsl:apply-templates select="subject_topical_7"/>
+        <xsl:apply-templates select="subject_topical_8"/>
+        <!-- Local Subjects -->
+        
+        <xsl:for-each select="subject_local_label_1">
+            <subject>
+                <xsl:if test="contains(../subject_local_code_1, 'B.')">
+                    <xsl:attribute name="displayLabel">Volunteer Voices Curriculum Topics</xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_local_code_1, 'D.')">
+                    <xsl:attribute name="displayLabel">Broad Topics</xsl:attribute>
+                </xsl:if>
+                <topic>
+                    <xsl:value-of select="."/>
+                </topic>
+            </subject>
+        </xsl:for-each>
+        <xsl:for-each select="subject_local_label_2">
+            <subject>
+                <xsl:if test="contains(../subject_local_code_2, 'B.')">
+                    <xsl:attribute name="displayLabel">Volunteer Voices Curriculum Topics</xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_local_code_2, 'D.')">
+                    <xsl:attribute name="displayLabel">Broad Topics</xsl:attribute>
+                </xsl:if>
+                <topic>
+                    <xsl:value-of select="."/>
+                </topic>
+            </subject>
+        </xsl:for-each>
+        <xsl:for-each select="subject_local_label_3">
+            <subject>
+                <xsl:if test="contains(../subject_local_code_3, 'B.')">
+                    <xsl:attribute name="displayLabel">Volunteer Voices Curriculum Topics</xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_local_code_3, 'D.')">
+                    <xsl:attribute name="displayLabel">Broad Topics</xsl:attribute>
+                </xsl:if>
+                <topic>
+                    <xsl:value-of select="."/>
+                </topic>
+            </subject>
+        </xsl:for-each>
+        <xsl:for-each select="subject_local_label_4">
+            <subject>
+                <xsl:if test="contains(../subject_local_code_4, 'B.')">
+                    <xsl:attribute name="displayLabel">Volunteer Voices Curriculum Topics</xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_local_code_4, 'D.')">
+                    <xsl:attribute name="displayLabel">Broad Topics</xsl:attribute>
+                </xsl:if>
+                <topic>
+                    <xsl:value-of select="."/>
+                </topic>
+            </subject>
+        </xsl:for-each>
+        <xsl:for-each select="subject_local_label_5">
+            <subject>
+                <xsl:if test="contains(../subject_local_code_5, 'B.')">
+                    <xsl:attribute name="displayLabel">Volunteer Voices Curriculum Topics</xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_local_code_5, 'D.')">
+                    <xsl:attribute name="displayLabel">Broad Topics</xsl:attribute>
+                </xsl:if>
+                <topic>
+                    <xsl:value-of select="."/>
+                </topic>
+            </subject>
+        </xsl:for-each>
         <xsl:apply-templates select="subject_name_1"/>  
         <xsl:apply-templates select="subject_name_2"/>  
-        <xsl:apply-templates select="subject_name_3"/>  
-        <xsl:apply-templates select="subject_geographic"/>
+        <xsl:apply-templates select="subject_name_3"/>
+        <xsl:apply-templates select="subject_name_4"/>
+        <xsl:apply-templates select="subject_name_5"/>
+        <xsl:apply-templates select="subject_geographic_1"/>
+        <xsl:apply-templates select="subject_geographic_2"/>
+        <xsl:apply-templates select="subject_geographic_3"/>
+        <xsl:apply-templates select="subject_geographic_4"/>
         <xsl:for-each select="subject_temporal">
             <subject>
+                <temporal>
+                    <xsl:value-of select="."/>
+                </temporal>
+            </subject>
+        </xsl:for-each>
+        <xsl:for-each select="subject_temporal_local">
+            <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
                 <temporal>
                     <xsl:value-of select="."/>
                 </temporal>
@@ -167,9 +264,6 @@
     <!-- relatedItems -->
         <relatedItem type="host" displayLabel="Project">
             <titleInfo>
-                <xsl:if test="project_title_initial_article">
-                    <nonSort><xsl:value-of select="project_title_initial_article"/></nonSort>
-                </xsl:if>
                 <title>
                     <xsl:value-of select="project_title"/>
                 </title>
@@ -189,15 +283,32 @@
                         <xsl:value-of select="."/>
                     </title>
                 </titleInfo>
+                <xsl:if test="collection_identifier">
+                    <identifier type="local">
+                        <xsl:value-of select="../collection_identifier"/>
+                    </identifier>
+                </xsl:if>
+                <xsl:if test="collection_identifier">
+                    <identifier type="local" displayLabel="Accession Number">
+                        <xsl:value-of select="../physicalLocation_type_accessionNumber"/>
+                    </identifier>
+                </xsl:if>
             </relatedItem>
         </xsl:for-each>
-        <xsl:for-each select="relatedItem_type_host_titlePart">
-            <relatedItem type="host">
+        <xsl:for-each select="relatedItem_type_host_title">
+            <relatedItem type="host" displayLabel="Is Part Of">
                 <titleInfo>
                     <title>
                         <xsl:value-of select="."/>
                     </title>
                 </titleInfo>
+                <xsl:if test="../relatedItem_type_host_detail_type_issue">
+                    <part>
+                        <detail type="issue">
+                            <number><xsl:value-of select="../relatedItem_type_host_detail_type_issue"/></number>
+                        </detail>
+                    </part>
+                </xsl:if>
             </relatedItem>
         </xsl:for-each>
     <!-- accessCondition -->
@@ -217,40 +328,59 @@
                     <xsl:value-of select="language_of_cataloging"/>
                 </languageTerm>
             </languageOfCataloging>
-            <recordOrigin>
-                <xsl:value-of select="record_origin"/>
-            </recordOrigin>
+            <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+            <recordCreationDate encoding="edtf"><xsl:value-of select="record_creation_date" /></recordCreationDate>
+            <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
         </recordInfo>
     </xsl:template>    
 <!-- End Item Record Template -->
     
 <!-- SUBTEMPLATES -->
     <xsl:template match="name_corporate_1">
-            <name type="corporate">
-                <xsl:if test="../name_corporate_authority_1">
-                    <xsl:attribute name="authority"><xsl:value-of select="../name_corporate_authority_1"/></xsl:attribute>
-                    <xsl:attribute name="valueURI"><xsl:value-of select="../name_corporate_URI_1"/></xsl:attribute>
-                </xsl:if>
-                <namePart>
-                    <xsl:value-of select="."/>
-                </namePart>
-                <xsl:if test="../name_role_1_1">
-                    <role>
-                        <roleTerm type="text" authority="marcrelator">
-                            <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
-                            <xsl:value-of select="../name_role_1_1"/>                        
-                        </roleTerm>
-                    </role>
-                </xsl:if>
-                <xsl:if test="../name_role_1_2">
-                    <role>
-                        <roleTerm type="text" authority="marcrelator">
-                            <xsl:if test="../name_role_1_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_2"/></xsl:attribute></xsl:if>
-                            <xsl:value-of select="../name_role_1_2"/>                        
-                        </roleTerm>
-                    </role>
-                </xsl:if>
-            </name>
+        <xsl:choose>
+            <xsl:when test="contains(., 'unknown')">
+                <name>
+                    <namePart>
+                        <xsl:value-of select="."/>
+                    </namePart>
+                    <xsl:if test="../name_role_1_1">
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">
+                                <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
+                                <xsl:value-of select="../name_role_1_1"/>                        
+                            </roleTerm>
+                        </role>
+                    </xsl:if>
+                </name>
+            </xsl:when>
+            <xsl:otherwise>
+                <name type="corporate">
+                    <xsl:if test="../name_corporate_authority_1">
+                        <xsl:attribute name="authority"><xsl:value-of select="../name_corporate_authority_1"/></xsl:attribute>
+                        <xsl:attribute name="valueURI"><xsl:value-of select="../name_corporate_URI_1"/></xsl:attribute>
+                    </xsl:if>
+                    <namePart>
+                        <xsl:value-of select="."/>
+                    </namePart>
+                    <xsl:if test="../name_role_1_1">
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">
+                                <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
+                                <xsl:value-of select="../name_role_1_1"/>                        
+                            </roleTerm>
+                        </role>
+                    </xsl:if>
+                    <xsl:if test="../name_role_1_2">
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">
+                                <xsl:if test="../name_role_1_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_2"/></xsl:attribute></xsl:if>
+                                <xsl:value-of select="../name_role_1_2"/>                        
+                            </roleTerm>
+                        </role>
+                    </xsl:if>
+                </name>
+                </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="name_corporate_2">
         <name type="corporate">
@@ -291,31 +421,50 @@
         </name>
     </xsl:template>
     <xsl:template match="name_personal_1">
-        <name type="personal">
-            <xsl:if test="../name_personal_authority_1">
-                <xsl:attribute name="authority"><xsl:value-of select="../name_personal_authority_1"/></xsl:attribute>
-                <xsl:attribute name="valueURI"><xsl:value-of select="../name_personal_URI_1"/></xsl:attribute>
-            </xsl:if>
-            <namePart>
-                <xsl:value-of select="."/>
-            </namePart>
-            <xsl:if test="../name_role_1_1">
-                <role>
-                    <roleTerm type="text" authority="marcrelator">
-                        <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
-                        <xsl:value-of select="../name_role_1_1"/>                        
-                    </roleTerm>
-                </role>
-            </xsl:if>
-            <xsl:if test="../name_role_1_2">
-                <role>
-                    <roleTerm type="text" authority="marcrelator">
-                        <xsl:if test="../name_role_1_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_2"/></xsl:attribute></xsl:if>
-                        <xsl:value-of select="../name_role_1_2"/>                        
-                    </roleTerm>
-                </role>
-            </xsl:if>
-        </name>
+        <xsl:choose>
+            <xsl:when test="contains(., 'unknown')">
+                <name>
+                    <namePart>
+                        <xsl:value-of select="."/>
+                    </namePart>
+                    <xsl:if test="../name_role_1_1">
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">
+                                <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
+                                <xsl:value-of select="../name_role_1_1"/>                        
+                            </roleTerm>
+                        </role>
+                    </xsl:if>
+                </name>
+            </xsl:when>
+            <xsl:otherwise>
+                <name type="personal">
+                    <xsl:if test="../name_personal_authority_1">
+                        <xsl:attribute name="authority"><xsl:value-of select="../name_personal_authority_1"/></xsl:attribute>
+                        <xsl:attribute name="valueURI"><xsl:value-of select="../name_personal_URI_1"/></xsl:attribute>
+                    </xsl:if>
+                    <namePart>
+                        <xsl:value-of select="."/>
+                    </namePart>
+                    <xsl:if test="../name_role_1_1">
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">
+                                <xsl:if test="../name_role_1_1"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_1"/></xsl:attribute></xsl:if>
+                                <xsl:value-of select="../name_role_1_1"/>                        
+                            </roleTerm>
+                        </role>
+                    </xsl:if>
+                    <xsl:if test="../name_role_1_2">
+                        <role>
+                            <roleTerm type="text" authority="marcrelator">
+                                <xsl:if test="../name_role_1_2"><xsl:attribute name="valueURI"><xsl:value-of select="../name_role_URI_1_2"/></xsl:attribute></xsl:if>
+                                <xsl:value-of select="../name_role_1_2"/>                        
+                            </roleTerm>
+                        </role>
+                    </xsl:if>
+                </name>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     <xsl:template match="name_personal_2">
         <name type="personal">
@@ -488,6 +637,102 @@
             </topic>
         </subject>
     </xsl:template>
+    <xsl:template match="subject_topical_3">
+        <subject>
+            <xsl:if test="../subject_topical_authority_3">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="../subject_topical_authority_3"/>
+                </xsl:attribute>
+            </xsl:if> <xsl:if test="../subject_topical_URI_3">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="../subject_topical_URI_3"/>
+                </xsl:attribute>
+            </xsl:if>
+            <topic>
+                <xsl:value-of select="."/>
+            </topic>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_topical_4">
+        <subject>
+            <xsl:if test="../subject_topical_authority_4">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="../subject_topical_authority_4"/>
+                </xsl:attribute>
+            </xsl:if> <xsl:if test="../subject_topical_URI_4">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="../subject_topical_URI_4"/>
+                </xsl:attribute>
+            </xsl:if>
+            <topic>
+                <xsl:value-of select="."/>
+            </topic>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_topical_5">
+        <subject>
+            <xsl:if test="../subject_topical_authority_5">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="../subject_topical_authority_5"/>
+                </xsl:attribute>
+            </xsl:if> <xsl:if test="../subject_topical_URI_5">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="../subject_topical_URI_5"/>
+                </xsl:attribute>
+            </xsl:if>
+            <topic>
+                <xsl:value-of select="."/>
+            </topic>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_topical_6">
+        <subject>
+            <xsl:if test="../subject_topical_authority_6">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="../subject_topical_authority_6"/>
+                </xsl:attribute>
+            </xsl:if> <xsl:if test="../subject_topical_URI_6">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="../subject_topical_URI_6"/>
+                </xsl:attribute>
+            </xsl:if>
+            <topic>
+                <xsl:value-of select="."/>
+            </topic>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_topical_7">
+        <subject>
+            <xsl:if test="../subject_topical_authority_7">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="../subject_topical_authority_7"/>
+                </xsl:attribute>
+            </xsl:if> <xsl:if test="../subject_topical_URI_7">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="../subject_topical_URI_7"/>
+                </xsl:attribute>
+            </xsl:if>
+            <topic>
+                <xsl:value-of select="."/>
+            </topic>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_topical_8">
+        <subject>
+            <xsl:if test="../subject_topical_authority_8">
+                <xsl:attribute name="authority">
+                    <xsl:value-of select="../subject_topical_authority_8"/>
+                </xsl:attribute>
+            </xsl:if> <xsl:if test="../subject_topical_URI_8">
+                <xsl:attribute name="valueURI">
+                    <xsl:value-of select="../subject_topical_URI_8"/>
+                </xsl:attribute>
+            </xsl:if>
+            <topic>
+                <xsl:value-of select="."/>
+            </topic>
+        </subject>
+    </xsl:template>
     <xsl:template match="subject_name_1">
         <subject>
             <name>
@@ -536,70 +781,124 @@
             </name>
         </subject>
     </xsl:template>
-    <xsl:template match="subject_geographic">
+    <xsl:template match="subject_name_4">
+        <subject>
+            <name>
+                <xsl:if test="../subject_name_authority_4">
+                    <xsl:attribute name="authority">
+                        <xsl:value-of select="../subject_name_authority_4"/>
+                    </xsl:attribute> <xsl:attribute name="valueURI">
+                        <xsl:value-of select="../subject_name_URI_4"/>
+                    </xsl:attribute>
+                </xsl:if>
+                <namePart>
+                    <xsl:value-of select="."/>
+                </namePart>
+            </name>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_name_5">
+        <subject>
+            <name>
+                <xsl:if test="../subject_name_authority_5">
+                    <xsl:attribute name="authority">
+                        <xsl:value-of select="../subject_name_authority_5"/>
+                    </xsl:attribute> <xsl:attribute name="valueURI">
+                        <xsl:value-of select="../subject_name_URI_5"/>
+                    </xsl:attribute>
+                </xsl:if>
+                <namePart>
+                    <xsl:value-of select="."/>
+                </namePart>
+            </name>
+        </subject>
+    </xsl:template>
+    <xsl:template match="subject_geographic_1">
         <subject>
             <geographic>
-                <xsl:if test="contains(../subject_geographic_authority, 'names')">
-                    <xsl:attribute name="authority">"naf"</xsl:attribute>
-                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_authority"/></xsl:attribute>
+                <xsl:if test="contains(../subject_geographic_URI_1, 'names')">
+                    <xsl:attribute name="authority">naf</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_1"/></xsl:attribute>
                 </xsl:if>
-                <xsl:if test="contains(../subject_geographic_authority, 'subjects')">
-                    <xsl:attribute name="authority">"lcsh"</xsl:attribute>
-                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_authority"/></xsl:attribute>
+                <xsl:if test="contains(../subject_geographic_URI_1, 'subjects')">
+                    <xsl:attribute name="authority">lcsh</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_1"/></xsl:attribute>
                 </xsl:if>
                 <xsl:value-of select="."/>
             </geographic>
-            <xsl:if test="../subject_geographic_coordinates">
+            <xsl:if test="../subject_geographic_coordinates_1">
                 <cartographics>
                     <coordinates>
-                        <xsl:value-of select="../subject_geographic_coordinates"/>
+                        <xsl:value-of select="../subject_geographic_coordinates_1"/>
                     </coordinates>
                 </cartographics>
             </xsl:if>
         </subject>        
     </xsl:template>
-    <xsl:template name="StreetAddresses">
-        <xsl:if test="subject_geographic_hierarchical_street">
-            <subject>
-                <hierarchicalGeographic>
-                    <xsl:apply-templates select="subject_geographic_hierarchical_country"/>
-                    <xsl:apply-templates select="subject_geographic_hierarchical_province"/>
-                    <xsl:apply-templates select="subject_geographic_hierarchical_state"/>
-                    <xsl:apply-templates select="subject_geographic_hierarchical_city"/>
-                    <xsl:apply-templates select="subject_geographic_hierarchical_borough"/>
-                    <xsl:apply-templates select="subject_geographic_hierarchical_street"/>
-                </hierarchicalGeographic>
-            </subject>
-        </xsl:if>
+    <xsl:template match="subject_geographic_2">
+        <subject>
+            <geographic>
+                <xsl:if test="contains(../subject_geographic_URI_2, 'names')">
+                    <xsl:attribute name="authority">naf</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_2"/></xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_geographic_URI_2, 'subjects')">
+                    <xsl:attribute name="authority">lcsh</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_2"/></xsl:attribute>
+                </xsl:if>
+                <xsl:value-of select="."/>
+            </geographic>
+            <xsl:if test="../subject_geographic_coordinates_2">
+                <cartographics>
+                    <coordinates>
+                        <xsl:value-of select="../subject_geographic_coordinates_2"/>
+                    </coordinates>
+                </cartographics>
+            </xsl:if>
+        </subject>        
     </xsl:template>
-    <xsl:template match="subject_geographic_hierarchical_country">
-        <country>
-            <xsl:value-of select="."/>
-        </country>
+    <xsl:template match="subject_geographic_3">
+        <subject>
+            <geographic>
+                <xsl:if test="contains(../subject_geographic_URI_3, 'names')">
+                    <xsl:attribute name="authority">naf</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_3"/></xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_geographic_URI_3, 'subjects')">
+                    <xsl:attribute name="authority">lcsh</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_3"/></xsl:attribute>
+                </xsl:if>
+                <xsl:value-of select="."/>
+            </geographic>
+            <xsl:if test="../subject_geographic_coordinates_3">
+                <cartographics>
+                    <coordinates>
+                        <xsl:value-of select="../subject_geographic_coordinates_3"/>
+                    </coordinates>
+                </cartographics>
+            </xsl:if>
+        </subject>        
     </xsl:template>
-    <xsl:template match="subject_geographic_hierarchical_province">
-        <province>
-            <xsl:value-of select="."/>
-        </province>
-    </xsl:template>
-    <xsl:template match="subject_geographic_hierarchical_state">
-        <state>
-            <xsl:value-of select="."/>
-        </state>
-    </xsl:template>
-    <xsl:template match="subject_geographic_hierarchical_city">
-        <city>
-            <xsl:value-of select="."/>
-        </city>
-    </xsl:template>
-    <xsl:template match="subject_geographic_hierarchical_borough">
-        <city>
-            <xsl:value-of select='concat("Borough: ", .)'/>
-        </city>
-    </xsl:template>
-    <xsl:template match="subject_geographic_hierarchical_street">
-        <citySection>
-            <xsl:value-of select='concat("Street: ", .)'/>
-        </citySection>
+    <xsl:template match="subject_geographic_4">
+        <subject>
+            <geographic>
+                <xsl:if test="contains(../subject_geographic_URI_4, 'names')">
+                    <xsl:attribute name="authority">naf</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_4"/></xsl:attribute>
+                </xsl:if>
+                <xsl:if test="contains(../subject_geographic_authority_4, 'subjects')">
+                    <xsl:attribute name="authority">lcsh</xsl:attribute>
+                    <xsl:attribute name="valueURI"><xsl:value-of select="../subject_geographic_URI_4"/></xsl:attribute>
+                </xsl:if>
+                <xsl:value-of select="."/>
+            </geographic>
+            <xsl:if test="../subject_geographic_coordinates_4">
+                <cartographics>
+                    <coordinates>
+                        <xsl:value-of select="../subject_geographic_coordinates_4"/>
+                    </coordinates>
+                </cartographics>
+            </xsl:if>
+        </subject>        
     </xsl:template>
 </xsl:stylesheet>

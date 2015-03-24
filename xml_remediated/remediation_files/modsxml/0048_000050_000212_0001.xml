@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0048_000050_000212_0001</identifier>
+   <identifier type="filename">0048_000050_000212_0001.jpeg</identifier>
+   <name type="corporate"
+         authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no98039813">
+      <namePart>Hatch Show Print (Firm)</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/prt">Printer</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>30 Years after Nashville Skyline: Bob Dylan and His Band</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</placeTerm>
+      </place>
+      <publisher>Hatch Show Print</publisher>
+      <dateCreated>1998</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1998</dateCreated>
+      <dateIssued encoding="edtf" keyDate="yes" qualifier="approximate">1998</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 print</extent>
+      <form authority="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Poster for a concert by Bob Dylan at the Nashville Municipal Auditorium on Feb 6 1999, Special guests Brian Setzer and his orchestra. The ticket cost was $25.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Hatch Show Print (Firm)</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Nashville</text>
+               <text>County: Davidson County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject displayLabel="Broad Topics">
+      <topic>Music and Performing Arts</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Popular Culture and Folklore</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Sports and Recreation</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n50030190">
+         <namePart>Dylan, Bob, 1941-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.16583N, 86.78445W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n79060705">Davidson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.15000N, 86.78333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <temporal>1999</temporal>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 10 - Contemporary United States (1968 to the present)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+      <location>
+         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Print Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0048_000050_000212_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-01-03</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0102_000050_000202_0001</identifier>
+   <identifier type="filename">0102_000050_000202_0001.jpeg</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Theodore Roosevelt Pin</title>
+   </titleInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <originInfo>
+      <dateCreated>1905</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1905</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 artifact</extent>
+      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This is a campaign button promotes Theodore Roosevelt circa 1905, most likely made for his reelection campaign. It depicts Roosevelt stern-faced and rosy-cheeked with his signature round spectacles.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Chester County Public Library</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Henderson</text>
+               <text>County: Chester County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85007245">
+      <topic>Armed Forces--Insignia</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Government and Politics</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79027239">
+         <namePart>Roosevelt, Theodore, 1858-1919</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>United States.  President (1901-1909: Roosevelt)</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+      <location>
+         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Chester County History</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0102_000050_000202_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-02-20</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+   </recordInfo>
+</mods>

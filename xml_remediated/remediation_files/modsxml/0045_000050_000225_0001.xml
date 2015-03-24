@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0045_000050_000225_0001</identifier>
+   <identifier type="filename">0045_000050_000225_0001.jpeg</identifier>
+   <name type="personal">
+      <namePart>McBride, Joseph</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" valueURI="">
+      <namePart>Jackson, Andrew, 1767-1845</namePart>
+   </name>
+   <titleInfo>
+      <title>Andrew Jackson's Desk</title>
+   </titleInfo>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <originInfo>
+      <dateCreated>1810</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1810</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 desk</extent>
+      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Andrew Jackson's walnut desk/bookcase with dentil molding and plain frieze over a pair of paneled doors.  Desk has slant front writing board cover, four graduated drawers, and ogee bracket feet.</abstract>
+   <genre/>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Hermitage</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>H1898.03.001</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Nashville</text>
+               <text>County: Davidson County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85037217">
+      <topic>Desks--United States</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2004000412">
+      <topic>Writing desks</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Popular Culture and Folklore</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Arts and Literature</topic>
+   </subject>
+   <subject>
+      <name authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79088888">
+         <namePart>Jackson, Andrew, 1767-1845</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n85137285">Hermitage (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.19611N, 86.62250W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n79060705">Davidson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.15000N, 86.78333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 4 - Expansion and Reform (1801-1861)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+      <location>
+         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Hermitage Historic Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0045_000050_000225_0001</recordIdentifier>
+      <recordContentSource>Hermitage</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-05-31</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+   </recordInfo>
+</mods>

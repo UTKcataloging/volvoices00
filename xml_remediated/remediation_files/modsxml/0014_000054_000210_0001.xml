@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0014_000054_000210_0001</identifier>
+   <identifier type="filename">0014_000054_000210_0001.jpeg</identifier>
+   <name type="personal">
+      <namePart>Simplot, A. (Alexander), 1837-1914</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ill">Illustrator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Memphis</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1862-07-04</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1862-07-04</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 3 illustrations</extent>
+      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Three sketches of events in Memphis, Tennessee, from Harper's Weekly depicting scenes and conflicts during the civil war. Pictures include hoisting an American flag over the post office, the defaced monument to Andrew Jackson, and a fleet of ships on the Mississippi River.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Memphis Public Library</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Folder 9, Item 3a, AMC 43</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Memphis</text>
+               <text>County: Shelby County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85140205">
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85114172">
+      <topic>Riots</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Wars and Military</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Popular Culture and Folklore</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n78095779">Memphis (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.14944N, 90.04889W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 5 - Civil War and Reconstruction (1850-1877)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+      <location>
+         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Prints from Harpers Weekly Newspaper and Frank Leslies Illustrated Newspaper</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0014_000054_000210_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-11-02</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0031_000054_000200_0001</identifier>
+   <identifier type="filename">0031_000054_000200_0001.jpeg</identifier>
+   <name type="personal">
+      <namePart>Fowler, Frank</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Phrenological Character of Master Wilson Bryan</title>
+   </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateCreated>1858-06-08</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1858-06-08</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 certificate</extent>
+      <form authority="http://vocab.getty.edu/aat/300026685">records (documents)</form>
+      <internetMediaType>image/jpeg</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This certificate attesting to Wilson Bryan's Phrenological Character was issued by Frank Fowler who identified himself as a Professor of Phrenology. The test was completed at Watertown, Wilson Couty, Tennessee. Identifies phrenology as a "moral and intellectual science," and claims that "Self-knowledge is the key to self-improvement." Phenology is completely discredited now and was viewed with great suspicion by many scolars at the time this certificate was issued (1858).</abstract>
+   <genre/>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Angelo &amp; Jennette Volpe Library &amp; Media Center</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Cookeville</text>
+               <text>County: Putnam County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85101440">
+      <topic>Phrenology</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Science and Technology</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Social Reform</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Bryan, Wilson</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Fowler, Frank</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n81083036">Wilson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.15000N, 86.28333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n85307675">Watertown (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>E</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <temporal>1858-06-08</temporal>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 4 - Expansion and Reform (1801-1861)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+      <location>
+         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Charles Faulkner Bryan Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0031_000054_000200_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-01-18</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+   </recordInfo>
+</mods>
