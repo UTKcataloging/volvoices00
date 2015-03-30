@@ -6,7 +6,6 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="local">0015_000060_000217_0000</identifier>
-   <identifier type="filename">0015_000060_000217_0000.jpeg</identifier>
    <name type="personal">
       <namePart>Hart, Walter R.</namePart>
       <role>
@@ -31,7 +30,7 @@
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 7 x 5 inches</extent>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a professionally produced photograph of the barracks at 496th Co. TVA-29 of the Civilian Conservation Corps in Lexington, Tennessee. Neatly arranged bunks, trunks, laundry bags, blanket rolls and boots line the interior of the wooden barracks. The photo was printed by Spencer and Wyckoff, Detroit, Michigan. It was donated by Walter R. Hart.</abstract>
@@ -39,7 +38,7 @@
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
    <location>
-      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
    </location>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/sh00007731#concept">
@@ -79,7 +78,7 @@
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>
       <recordIdentifier>record_0015_000060_000217_0000</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>

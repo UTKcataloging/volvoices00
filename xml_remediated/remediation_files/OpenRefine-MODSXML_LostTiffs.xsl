@@ -23,9 +23,6 @@
         <identifier type="local">
             <xsl:value-of select="identifier" />
         </identifier>
-        <identifier type="filename">
-            <xsl:value-of select="concat(identifier, '.jpeg')" />
-        </identifier>
     <!-- Name -->
         <xsl:apply-templates select="name_1"/>
         <xsl:apply-templates select="name_2"/>
@@ -98,7 +95,7 @@
             <physicalDescription>
                 <xsl:apply-templates select="extent"/>
                 <xsl:apply-templates select="form"/>
-                <internetMediaType>image/jpeg</internetMediaType>
+                <internetMediaType>image/jp2</internetMediaType>
                 <digitalOrigin>reformatted digital</digitalOrigin>
             </physicalDescription>
         </xsl:if>
@@ -165,32 +162,6 @@
                         <xsl:value-of select="."/>
                     </title>
                 </titleInfo>
-                <xsl:if test="collection_identifier">
-                    <identifier type="local">
-                        <xsl:value-of select="../collection_identifier"/>
-                    </identifier>
-                </xsl:if>
-                <xsl:if test="collection_identifier">
-                    <identifier type="local" displayLabel="Accession Number">
-                        <xsl:value-of select="../physicalLocation_type_accessionNumber"/>
-                    </identifier>
-                </xsl:if>
-            </relatedItem>
-        </xsl:for-each>
-        <xsl:for-each select="relatedItem_type_host_title">
-            <relatedItem type="host" displayLabel="Is Part Of">
-                <titleInfo>
-                    <title>
-                        <xsl:value-of select="."/>
-                    </title>
-                </titleInfo>
-                <xsl:if test="../relatedItem_type_host_detail_type_issue">
-                    <part>
-                        <detail type="issue">
-                            <number><xsl:value-of select="../relatedItem_type_host_detail_type_issue"/></number>
-                        </detail>
-                    </part>
-                </xsl:if>
             </relatedItem>
         </xsl:for-each>
     <!-- accessCondition -->
@@ -202,7 +173,9 @@
             <recordIdentifier>
                 <xsl:value-of select="concat('record_', identifier)"/>
             </recordIdentifier>
-            <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+            <recordContentSource>
+                <xsl:value-of select="repository"/>
+            </recordContentSource>
             <languageOfCataloging>
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
             </languageOfCataloging>

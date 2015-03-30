@@ -6,7 +6,6 @@
       xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
       version="3.5">
    <identifier type="local">0015_000062_000233_0000</identifier>
-   <identifier type="filename">0015_000062_000233_0000.jpeg</identifier>
    <name type="personal">
       <namePart>Haslbauer, Otto F.</namePart>
       <role>
@@ -30,7 +29,7 @@
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 7 x 5 inches</extent>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph provides a view of the facilities of the Civilian Conservation Corps camp of the 223rd Company, TVA P-10, in Powell Station, Tennessee. It includes the typical C.C.C barracks and headquarters. Otto F. Haslbauer donated this photograph, which was printed by Spencer and Wyckoff of Detroit, Michigan.</abstract>
@@ -38,7 +37,7 @@
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
    <location>
-      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
    </location>
    <subject displayLabel="Volunteer Voices Curriculum Topics">
       <topic>Tennessee Valley Authority and "grass roots democracy"</topic>
@@ -67,7 +66,7 @@
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>
       <recordIdentifier>record_0015_000062_000233_0000</recordIdentifier>
-      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
       <languageOfCataloging>
          <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
       </languageOfCataloging>
