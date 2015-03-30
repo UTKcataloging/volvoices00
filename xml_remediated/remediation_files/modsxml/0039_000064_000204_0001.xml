@@ -32,8 +32,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 4 x 2.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a view from the courthouse cupola looking east down Main Street in Murfreesboro.  On the left is the Cumberland Presbyterian Church, built in 1859.  During the war, this church served as a hospital, barracks for Union troops, and prison for Confederate soldiers.  On the right is the Christian Church.  This church was used by various ministers for services during the war and therefore suffered little damage.  The large building in the upper left is Union University, founded in 1848.  During the war, this school served as a hospital and then as a refuge for former slaves.</abstract>
@@ -95,9 +95,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -29,9 +29,9 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <form authority="http://vocab.getty.edu/aat/300034787">architectural drawings (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300034787">architectural drawings (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This drawing depicts the layout of Chota or Echota, an 18th century Overhill Cherokee village. It shows a central village plaza with both a circular winter council house and rectangular summer council house, which were used for public, social, and political events. Shown also are domestic dwellings with the same set-up, a circular winter house alongside a rectangular summerhouse. Also drawn are areas of dense refuse-filled pits. Archeological studies by the University of Tennessee from 1969 -1974 indicate that in the mid -1700's Chota had a population of around 300-500. There were approximately 60 domestic houses surrounding the village plaza that extended along the river for about a mile. Chota was recognized by Europeans as well as other Indians for its powerful social and economic influence and was regarded as the capital of the Cherokee nation. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Directors, J. Worth Greene, Duane H. King, and Gerald F. Schroedl</abstract>
@@ -111,9 +111,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

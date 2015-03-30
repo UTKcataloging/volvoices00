@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is of the Fort Marr Blockhouse located at Benton in Polk County, Tennessee. Fort Marr, also known as 'The Old Fort,' was constructed around 1814 near Old Fort, Tennessee. The fort was positioned along the Old Federal Road and housed troops who were assigned to protect white travelers using the road and the Cherokees from Creek retaliation. The fort was also said to have been used to safeguard supplies and as a campsite for soldiers in transit during the Creek War of 1814-1815. The name Fort Marr was established when the fort was renovated into a stockade to use during the removal of the Cherokee people to the west. It is believed that the fort was named after George Washington Lent Marr, who served under Andrew Jackson during the War of 1812 and the campaign of 1813-1814. After being relocated several times since its construction, it was moved to its present location at Benton in 1965. In 1980, Fort Marr became the property of the Conservation Department of the state of Tennessee to be maintained and used as a historic site.</abstract>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 postcard</extent>
-      <form authority="http://vocab.getty.edu/aat/300026816">postcards</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This postcard shows the Rhea County Courthouse. This was the site of the famous "Scope's Tial" that pitted William Jennings Bryan, speaking on behalf of divine creation, against Clarence Darrow, who defended the Darwinian concept of evolution.</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

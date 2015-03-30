@@ -26,8 +26,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 building</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>West Arnwine and his descendants lived in this cabin in the early 19th century.  It was built about 1800 on the Clinch River near Liberty Hill in Grainger County. The cabin is listed on National Register of Historic places.</abstract>
@@ -80,9 +80,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

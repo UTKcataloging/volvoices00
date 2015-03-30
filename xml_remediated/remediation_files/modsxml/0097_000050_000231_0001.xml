@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An armed Allied soldier stands at a guard post at the entry to the Eagle's Nest. The soldiers created a sign for the post reading: 
@@ -81,9 +81,6 @@ The Eagle's Nest, or The Kehlsteinhaus, was built as a 50th birthday present for
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

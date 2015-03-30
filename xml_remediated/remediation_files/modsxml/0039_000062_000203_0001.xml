@@ -32,8 +32,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 4.5 x 2.8 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph depicts Italian immigrants Rose and Dominick Meshotto, owners of Murfreesboro's Busy Bee Cafe, standing next to their vehicle behind the downtown square building strip that houses their restaurant.</abstract>
@@ -105,9 +105,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

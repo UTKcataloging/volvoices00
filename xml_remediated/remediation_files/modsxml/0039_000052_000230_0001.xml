@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>"The Home Economics Department is presenting a most pleasing appearance in her new adornments.  The beautiful new cabinet consisting of forty individual lockers and ample space for hanging garments, while in construction and when finished, adds greatly to the convenience of the Domestic Arts classes; and the splendid new sewing machines make the work much lighter.  This house is to be occupied by a different group of girls each quarter.  The group will live as a family, practicing the arts of household management in the most practical and scientific way" (--Mrs. T.E. Clark, President, Home economics Club, The Normalite, October 1922)</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

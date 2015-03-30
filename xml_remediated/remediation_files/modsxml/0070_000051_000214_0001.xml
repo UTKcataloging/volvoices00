@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photgraph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Isabelle Daniels, a member of the Tennessee A &amp; I State College Tigerbelles, fills out the paperwork for her parade uniform for the 1955 Pan-American Games in Mexico City, Mexico. She won a silver medal in the 60 meter dash and gold medal as part of the 4x100 relay team. In the Melbourne Olympic Games in 1956, she won a bronze medal with the 4x100 relay team. She also won medals during the 1958 Goodwill Tour through Moscow, U.S.S.R.; Budapest, Hungary; Warsaw, Poland; and Athens, Greece.</abstract>
@@ -89,9 +89,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

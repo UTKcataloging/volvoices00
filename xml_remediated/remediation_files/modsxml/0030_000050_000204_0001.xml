@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Opening ceremonies of the Clarksville airport were held in 1929 and the airport was designated Outlaw Field to honor Colonel John Outlaw.  In the 1920's John F. Outlaw began operating a private field in the northern part of Montgomery County.  Colonel Outlaw was killed by lightning on July 27, 1942, while serving with the Army Air Force in World War II.  A group of citizens purchased land necessary for an airport.  This purchase of 225 acres from J. C. Caroland paved the way for additional purchases and expansion of services and facilities. Listed in unknown order are Miss Francis Rollow, John Outlaw, Pete Neblette, Long, Berkley, Sterchie, Jake Cotham, Louis Edwards, Louie Gasser, Albert Gasser, Bill Irby, Dick Hoffman, and Lt. Douglas.</abstract>
@@ -77,9 +77,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

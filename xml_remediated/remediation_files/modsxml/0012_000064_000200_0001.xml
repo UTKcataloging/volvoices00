@@ -30,12 +30,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 page; 28 x 41 cm.</extent>
-      <form authority="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>From: Harper's Weekly, v.9, no.463, November 11, 1865. At head, left, and right margins: "Boorish tailor, drunken beast, patriot, statesman, Jackson; Beastly instincts, demagogical habits, boorish mind; 'Not one word or act of his which a national democrat would not defend.'" Caption quotations located at four corners.</abstract>
-   <genre/>
+   <genre>Political cartoons</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -91,9 +91,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

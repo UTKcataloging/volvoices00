@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An estimated 75 to 100 sticks of dynamite exploded throughout Clinton High School in the early morning of Sunday, October 5, 1958, over two years after the integration of the high school.  Despite the establishment of an FBI office in Clinton and a thorough investigation, no arrests were ever made in the case.</abstract>
@@ -91,9 +91,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

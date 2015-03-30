@@ -36,8 +36,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 lithograph; 10 x 14 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A hand colored lithograph that represents the funeral procession held in New York City on June 24, 1845 in memory of Andrew Jackson.  In the foreground, a wagon carries a gold urn inscribed with the names of  Washington, La Fayette, Harrison, and Jackson.  An eagle is purchased on the wagon clutching a ribbon inscribed "Jackson" in his beak.  Four white horses are pulling the wagon.  The horses, wagon, and urn are all draped in black.  Behind the wagon is a white riderless horse with a saddle and saddle blanket..  The horses are attented by three men wearing turbans, blue vests, and sashes.  In the background there is a parade of soldiers wearing red, white, and blue uniforms, led by a mounted officer and a military band.  Behind the soldiers  an iron fence is visible that leads to a gate with two large stone gate posts.  Crowds of people line the other side of the fence and gate watching the procession.  A horse drawn carriage is also visible in the crowd.  In the crowd, eight black draped banners represent various organizations.  Three banners are legible and the represent the I.O.O.F., NY Fire Department, and the 2nd Division.   A large two story Greek Revival  building is visible in the right background, with all of its windows and porticoes lined with people.  An American flag flies from the roof of the building.  In the left hand background two trees are visible.  Underneath the print is the following inscription in large bold black letters:  GRAND FUNERAL PROCESSION IN MEMORY OF GEN. JACKSON as it started from the City Hall New York June 24th, 1845.</abstract>
@@ -93,9 +93,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

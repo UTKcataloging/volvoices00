@@ -26,8 +26,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A kiln of the Greenback Brick Company circa 1908.  The kiln is in the shape of a dome and there is a tower structure to the left.  Piles of brick sit out front.  The handwritten caption below gives a brief overview of the history and former location of brick plant.</abstract>
@@ -75,9 +75,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

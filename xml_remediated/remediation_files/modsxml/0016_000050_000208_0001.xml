@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 2.4 x 3 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Mrs. T.P. Gilmore was born into slavery under Captain Nathaniel Grant in the Bradley County area of Tennessee on March 29, 1856.  Mrs. Tina (or Tena Gilmore  began teaching in the African-American schools when black teachers began to replace white teachers in those schools.  According to different local newspaper stories, Mrs. Gilmore was the youngest of seven or nine children born to Nathaniel and Caroline.  She died on October 22, 1957 at the age of 101 years.</abstract>
@@ -73,9 +73,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

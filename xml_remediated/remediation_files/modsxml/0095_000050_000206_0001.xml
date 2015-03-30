@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "Carol Pope Showing a Young Jersey at the Yorkville Jersey Show". The back of photo reads: They start them young at the Yorkville Jersey Show. Miss Carol Pope, granddaughter of Mr. O.B. Pope, one of the founders of the Show, with her young Jersey. She is the daughter of Mr. and Mrs. Joe Pope of Yorkville, one of the good dairymen of the community.</abstract>
@@ -80,9 +80,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

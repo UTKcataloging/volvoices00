@@ -33,8 +33,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a computer generated map of an excavated unit at the Chattooga site, showing the post hole pattern of the Chattooga townhouse. Chattooga is a Cherokee archaeological site that was formerly called 'Cherokee Town.' Cherokee Town was an 18th century village associated with the Lower town Cherokee communities of northern Georgia and western South Carolina. The site is thought to have been occupied for only 160 years and was abandoned by the Cherokees in the 1740s. This site is given special attention because it retained early 18th century Cherokee material culture. This material culture is difficult to find and distinguish on other Cherokee sites of the same time period. The University of Tennessee (UT) and the Francis Marion National Forest conducted archaeological excavations at Chattooga during 1989-1994. The focus of these excavations was to develop a better understanding of the nature of the historical Cherokee occupation at the site and compare these findings with those found on other 18th century Cherokee sites. As a result of these excavations, archaeologists were able to identify and partially excavate the remains of five superimposed council houses. In addition, the excavations of two winter structures and one summer domestic structure were conducted. Through the use of surface collection, test pit excavations and remote sensing equipment, vast amounts of artifacts and location of additional buildings/features were found with minimal disturbance to the site.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 6 binders of photographs</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Main Street in Dayton, Tennessee, where Scopes trial started, looking east.  On the right, in background, is Robinson's Drug Store where Earle Robinson and George Rappleyea conspired with young Scopes to violate the Tennessee statute to provide a court test case. The Hotel Aqua, also shown in the background, is where many trial participants roomed and ate.</abstract>
@@ -79,9 +79,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

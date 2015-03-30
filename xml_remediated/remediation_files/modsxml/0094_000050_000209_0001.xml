@@ -26,12 +26,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 item</extent>
-      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is the leather satchel carried by Dr. Cas Wilson when he practiced medicine at the age of twenty-two in and around the nearby village of old Loyston, Tennessee.  The carrying case contains 87 vials, bottles, and cans of medicine, including a variety of pills.  Mr. Wilson received his medical degree from the Memphis School of Medicine in 1913.</abstract>
-   <genre/>
+   <genre>Medicine chests</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -75,9 +75,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

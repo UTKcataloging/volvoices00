@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of a sign placed in Camp New York. Camp New York, or Camp Suippes or Camp de Tahure, was located in Suippes, France and was established on damaged grassland after World War I.  The camp had medical triage, and military storage as well as providing safe harbor for troops.  Signs on the camp state that New York Mayor La Guardia aided in financing the camp. La Guardia was vehemently against Hitler and worked as early as 1935 to educate Americans to the danger of the Nazis, including their annihilation of the Jews in Germany. He was appointed the first director of the Office of Civilian Defense until 1942, and began work with the United Nations in 1946. Camp "New York" is still in operation as a military camp, but known as Camp "Suippes". The sign pictured reads: "Dear Boys:
@@ -82,9 +82,6 @@ The mayor and the people of the city of New York send  you greetings and best wi
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

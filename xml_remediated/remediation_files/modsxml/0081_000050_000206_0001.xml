@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "Black trainer Nathaniel Stokes Won with Famed Strolling Jim", Strolling Jim was the first champion Tn Walking horse, Wartrace trainer Floyd Caruthers rode him to the championship in Shelbyville's first Tennessee Walking Horse Nat'l. Celebration. Strolling Jim also won in the circling the ring in the groom's division under the direction of Shelbyville groom Nathaniel Stokes. In addition to the blue ribbon, he won a box of cigars and a $5 check.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

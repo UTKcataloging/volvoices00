@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Appleton's Railway Map of the United States and the Canadas, Representing Railways in Actual Operation. Also, Map of the Territories, showing the Pacific Railroad, Gold Regions, and Co. has transcontinental railway. Compiled for Appleton's Illustrated Railway Guide; D. Appleton &amp; Co., Publishers, 442 and 445 Broadway, New York.</abstract>
@@ -69,9 +69,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

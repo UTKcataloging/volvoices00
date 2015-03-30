@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of a Nazi with two black soldiers on a horse cart in a field. Verso reads "Nazis in France." Many images owned by American soldiers were stolen from Nazis after the capture of their camps or their homes, and this image may have been taken at an earlier time and then appropriated by Gaskell Warren after his division took hold of Berchtesgaden, Germany where many Nazi had homes.</abstract>
@@ -71,9 +71,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

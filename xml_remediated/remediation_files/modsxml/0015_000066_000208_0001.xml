@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map; 38.25 x 28.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Map of Kentucky &amp; Tennessee Exhibiting the Post Offices, Post Roads, Canals, Rail Roads, and Co. David H. Burr is identified as the "Late Topographer to the Post Office, Geographer to the House of Representatives of the U.S."</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

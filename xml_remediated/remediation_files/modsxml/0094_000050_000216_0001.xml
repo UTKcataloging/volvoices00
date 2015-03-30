@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 object</extent>
-      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Caption reads: "Carpet Bag which gave rise to the infamous Yankees who carried this type bag into the South after the Civil War."  This quote refers to the name "Carpetbaggers" given to Northerners who moved to the South after the Civil War.</abstract>
@@ -70,9 +70,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

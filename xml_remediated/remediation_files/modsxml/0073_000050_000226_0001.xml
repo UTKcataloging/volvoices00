@@ -26,8 +26,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Green School was constructed on Payne Ave. in Knoxville, Tennessee in the year 1909. It was named for Dr. Harry M. Green.  The Green School faculty in this picture are identified on the back of this photo.  Front L-R: Arnetta Wallace,  Sadye Burge, unidentified,  Lois Kelly.  2nd row: O.T. Hogue, James Hardy, Lottie Gordon, Charles Pearcy, Leonard Jackson, Leon Nance. 3rd row: Sallie  McClatchey, unidentified, unidentified, Dorothy Nance.  Back row: unidentified, unidentified, Margaret Carson, Nora T.Jackson, Almeda Ford.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

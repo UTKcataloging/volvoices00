@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>1 tif. A black and white photograph of students listening to Roland Hayes speak at Fisk University. Hayes, 1887 -1977, is considered the first African American male concert artist to receive international acclaim. Hayes, a lyric tenor, trained at Fisk University starting in 1905, and began singing with the Fisk Jubilee singers in 1911. Hayes sang at Carnegie Hall, in Boston's Symphony Hall, and toured Europe during the 1920s. From the 1940's until his death Hayes performed sporadically, with Fisk University included in his few venues.</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

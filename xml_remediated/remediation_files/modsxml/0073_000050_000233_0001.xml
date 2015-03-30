@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The five men in this picture who stand in front of Knoxville's Carnegie Library were prominent citizens in the black community.  They are identified on the back of the photograph as:  Jim Beck, postal clerk; Dr. Henry M. Green; Webster Porter, editor of the East Tennessee News; Joshua Cobb, teacher; and John Hoff, lawyer.  The back of the photograph also notes that the Carnegie Library served Knoxville's black community from 1917 until the early 1960s.</abstract>
@@ -79,9 +79,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

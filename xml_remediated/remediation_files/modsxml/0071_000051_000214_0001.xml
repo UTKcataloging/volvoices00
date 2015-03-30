@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 6 binders of photographs</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Verso side reads: Seated, L to R: prosecutor Herb Hicks, John Scopes, Supt. of Schools Walter White, prosecutor Gordon McDenzie.  Standing, L to R: Burt Wilbur (served warrant), prosecutor Wallace Haggard, W.E. Morgan, George Rappleyea, prosecutor Sue Hicks, and F.E. Robinson.  The image shows John T. Scopes being served a warrant in Robinson's drugstore, with a team of lawyers and the superintendent.</abstract>
@@ -78,9 +78,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

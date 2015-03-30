@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of Jack Benny performing in an USO show for troops in Munich, Germany in 1945. The USO was founded in 1941 in response to a request from President Franklin D. Roosevelt to provide morale and recreation services to U.S. uniformed military personnel. From 1941 to 1947, the USO presented more than 400,000 performances. Jack Benny was a Jewish American comedian, vaudeville performer, and radio, television, and film actor. He was well-known for his stand up, situational comedy, and for his television show "The Jack Benny Program" which ran for 15 years. He toured with the USO for three summers with Larry Adler, Martha Tilton, Ingrid Bergman and others.</abstract>
@@ -85,9 +85,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

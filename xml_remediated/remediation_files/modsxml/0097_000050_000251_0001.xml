@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of the "Toot Sweet Express," a train in the Transportation Corps of the U.S. Army. The side graffiti reads "U.S.A. Bound. Germany to France. CP-BTRYS- "A" &amp; "C". All Krants! No Chocolate. No Gum. No Cigarettes. No time. Howitzer Boys. High Pointers (70+). Going Home. Don't Delay! New York Chicago New Orleans (?) St. Louis. No Chow Either. Main 5520-13." The train's name was a play on the French phrase "tout de suite" (all at once). The train was a supply vessel which left Cherbourg every day for depots along the German border. The train ran on rail laid by the Allies in order to supply the front lines.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

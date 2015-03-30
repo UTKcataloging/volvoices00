@@ -32,8 +32,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 4 x 2.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph depicts a view from the courthouse cupola looking southwest.  The owner of the house in the center foreground is not known.  The building in the background is thought to be a mill building close to Lytle Creek and the railroad spur.  Note the train cars on the right of the building.</abstract>
@@ -95,9 +95,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -36,8 +36,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph of a drawing</extent>
-      <form authority="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The original sketch depicts the soldiers of the Nineteenth Ohio Volunteer Infantry, USA on square of Gallatin, Tennessee in November, 1862. The photo of the artist's sketch was taken by E.M. Stark, of Gallatin, Tennessee.</abstract>
@@ -92,9 +92,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

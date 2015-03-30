@@ -44,8 +44,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 6594 items</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Photograph of the committee which drafted the first Code of Tennessee (also known as the Meigs-Cooper Code).  Return Jonathan Meigs is the fist on the left.  J. B. Heiskell, committee chairman, is the third from left.  Other committee members pictured at unknown locations are William Frierson Cooper, Micajah Bullock and S. T. Bicknell.</abstract>
@@ -105,9 +105,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

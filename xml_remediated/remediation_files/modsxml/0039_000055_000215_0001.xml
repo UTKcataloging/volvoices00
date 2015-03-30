@@ -32,8 +32,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image; 9 x 7.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph shows sisters Ethel Licker (second row, third from left) and Bertha Licker (first row, first from left) at Soule College on Maple Street, Murfreesboro.  All three Licker sisters (Esther is not pictured) attended the exclusive girls' school.  Childhood friend Jean Faircloth (Mrs. Douglas MacArthur) is seated on the first row as well (third from right).</abstract>
@@ -110,9 +110,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

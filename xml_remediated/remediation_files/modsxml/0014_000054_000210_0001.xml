@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 3 illustrations</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Three sketches of events in Memphis, Tennessee, from Harper's Weekly depicting scenes and conflicts during the civil war. Pictures include hoisting an American flag over the post office, the defaced monument to Andrew Jackson, and a fleet of ships on the Mississippi River.</abstract>
@@ -79,9 +79,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

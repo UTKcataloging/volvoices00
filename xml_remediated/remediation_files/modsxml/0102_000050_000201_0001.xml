@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300026816">postcards</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Postcard of a train depot in Henderson, Tennessee.  The image looks like it might be a color-enhanced photograph.  There is also writing over the picture as though someone ran out of room on the blank side and spilled over onto the picture side.  We can see that the card was published by Baird J--, but the rest of the word is torn off.</abstract>
@@ -74,9 +74,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

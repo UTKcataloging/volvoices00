@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "Miners at Embreeville, Tenessee". Embreeville, Tennessee is located along the Nolichucky River in the southeastern corner of Washington County. Iron was the main product of the Embreeville mines during the 19th century.  The reverse side of the phtograph reads:  Embreeville mines, ca. 1880s or 1890s.  Extreme right Lee Ammons.</abstract>
@@ -81,9 +81,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

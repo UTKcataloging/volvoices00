@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map; 17.3 x 19.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>East Tennessee is labeled as Washington District; among the towns on map: Knoxville, Kingston, Tellico, Maryville, Jefferson, Sevier, Rogersville, Greene, Limestone. Middle Tennessee referred to as Metro District Clarksville, Nashville labeled Murfreesboro is in darkest letters, perhaps is capital at the time. Site of present-day Memphis identified as Fort Pickering, Chickasaw Bluff Indian line drawn south of the Harpeth River in middle tn. up to KY border, then down along Powell's Valley to Kingston where it goes along the lower part of the Holston River, this is important because two sections of state were split by Indian lands. Handwritten notation says Careys Atlas, 1814.</abstract>
@@ -71,9 +71,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

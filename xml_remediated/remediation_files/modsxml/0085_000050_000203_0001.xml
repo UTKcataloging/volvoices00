@@ -33,8 +33,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The Kelly and Green Photo Company was founded by Albert Kelly, Sr. in 1920. It was located at 514 Cumberland Street, Bristol, Virginia. The owners were: Albert S. Kelly of 1000 Prospect Avenue, who was also president of Bristol Radio Company, Inc., Charles P. Kelly of King Mill Pike, and George L. Kelly of Erie, Pennsylvania.  Prior to World War II, the company's photographers photographed stores, city scenes (primarily in Bristol, Tennessee/Virginia), and schools. In their early years of business, the company had a complete mailing service of form letters, multigraphing, addressing, mailing, public stenography, and notarizing.</abstract>
@@ -109,9 +109,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

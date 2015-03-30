@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300026877">correspondence</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026877">correspondence</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>John Baird was 26 when he created this valentine, and it's unknown who for whom it was intended, though there is the name H.H. Harris in the center. He later named Rebbecca Gwynne when he was thirty-three. The Valentine says:One the fourteenth February.</abstract>
@@ -57,9 +57,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

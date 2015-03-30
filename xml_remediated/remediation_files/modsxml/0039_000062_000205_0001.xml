@@ -32,8 +32,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 4.9 x 6.8 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph depicts Italian immigrant Concetta DiGiorgio Meshotto (Miciotto).  She emigrated to New York in 1911 with her husband and children.  The family lived in Chicago and Nashville before settling in Murfreesboro, Tennessee, in 1916.  Concetta opened the Busy Bee Cafe on the town square with her son Dominick and his wife Rose in 1926.  Dominick and Rose Meshotto began running the cafe on their own in 1937 until they sold it in 1946.</abstract>
@@ -105,9 +105,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

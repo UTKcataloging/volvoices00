@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map; 12.8 x 9.4 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This map shows Tennessee at the time an attempt was made to achieve statehood as the State of Franklin (Frankland). Two counties are identified - Davidson and Greene. The map shows rivers, but not towns. There are notations with both the name of Franklin, with Henderson and Turner written beside it, and Frankland, with notes referring to a first petition April 7, 1785 and the names Campbell and Haywood.</abstract>
@@ -71,9 +71,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

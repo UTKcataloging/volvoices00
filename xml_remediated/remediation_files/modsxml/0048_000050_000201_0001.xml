@@ -32,8 +32,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 print</extent>
-      <form authority="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This print heralded the first game at Dudley Field, Vanderbilt's new football statium, on October 14, 1922. It proclaimed this game as the "South's Greatest Spectacle" for which seats were selling fast. Admission for the game was $1.50 or $2.00. The occasion was very festive, including a parade led by Governor Alf Taylor and thousands of students and alumni. In his first trip to Nashville, Cornelius Vanderbilt, the great-grandson of the university's namesake, attended the game with his wife. The result of the game was a scoreless tie.</abstract>
@@ -94,9 +94,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

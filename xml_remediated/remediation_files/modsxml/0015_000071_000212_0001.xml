@@ -36,8 +36,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 7726 items</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Photograph of Wallace and Francis Robinson in the window of their playhouse.  The boy is holding a Felix the Cat toy and the girl is holding a monkey.  This photograph was taken in Dayton, Tennessee during the Scopes trial.</abstract>
@@ -85,9 +85,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This building served as the Morristown City Hall from 1906 until 1931.  Verso side reads:  Morristown, Tennessee; City Hall, 1906-1931.  Also served as a fire station.  The firewagon and horses were in the lower right of the the building.  Located on West 1st North, it was replaced by a new City Hall in 1931 which was replaced by the City Center.</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

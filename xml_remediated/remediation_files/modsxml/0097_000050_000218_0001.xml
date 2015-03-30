@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of Nazi soldiers including Field Marshall von Rundstedt in a field in France. The images in Gaskell Warren's  collection of German soldiers were taken after the 101st airborne had captured prisoners in Berchtesgaden, Germany.  In August of 1945 the division moved to France in order to train for a possible assault on Japan which was not realized after the Japanese surrender. Gaskell Warren was a member of the military police, and was likely assigned to the detail that escorted the Nazis after their capture.  Field Marshall von Rundstedt was Commander of the Western Forces during both the Battle of the Bulge and Operation Market Garden.</abstract>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

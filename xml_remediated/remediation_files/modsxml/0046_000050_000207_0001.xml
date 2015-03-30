@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Unidentified men from Chattanooga, Tennessee at the first meeting of the Army of the Cumberland in Cincinnati, Ohio according to the verso side of the photograph.  The Army of the Cumberland was a Union Army formerly known as the Army of Ohio.  The Army of the Cumberland participated in the Tullahoma Campaign and in the Battle of Chickamauga.  may want to include in publisher field (not abstract): Writing at the bottom reads: Imperial Portrait, Marceau Bellsmith, Cincinnati, O.</abstract>
@@ -89,9 +89,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

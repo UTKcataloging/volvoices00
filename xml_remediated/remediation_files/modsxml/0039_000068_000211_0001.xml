@@ -34,8 +34,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Following the end of World War II, Middle Tennessee State College (1943-1964) experienced tremendous growth as a result of the G.I. Bill. To meet emergency housing needs, in 1946 Congress appropriated $78 million to move buildings from military bases to college campuses. MTSC also received federal funds to erect small apartments for married veterans and their wives and children. Vet Village, as this area of campus was known, had its own laundry house, student-run grocery store, mayor, and representative on the Associated Student Body.</abstract>
@@ -101,9 +101,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "TVA Slurry". It is from a collection contributed by Donald R. (Little Joe) Adams. "The books you are now looking at were started in 1968 by apprentice of different crafts and professional photographers. There were originally three sets of these books, but due to the changing of the supervision in TVA, two of the sets were destroyed. The last remaining set was in my care for about 25 years until I showed the books to Mrs. Nina Finley. She suggested that I put the books on display in the Library so other people could see what the beginning of the Cumberland Steam Plant looked like. I was honored that someone like her was interested in something that I took for granted. I hope many people will enjoy looking through the pages of these books and wonder how it really was, and future generations look at the books and wonder how did we accomplish building the steam plant with all of that antique equipment, sort of like my generation looked at the horse and buggy era. detail loc: Tennessee Valley Authority Notebook 1; county: houston</abstract>
@@ -86,9 +86,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

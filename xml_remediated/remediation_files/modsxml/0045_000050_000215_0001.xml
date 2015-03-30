@@ -46,8 +46,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 lithograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Colored lithograph of the Hermitage with a road in the foreground lined with a picket fence on the backside along which a white couple, nicely dressed, are talking to a slave man and his children.  On the road are two men on horseback approaching the gate to enter the drive up to the Hermitage mansion.  The road leading to mansion is lined with small needle trees, the road splits to form a circular tree-lined drive and then another circular drive right in front of the mansion (a figure 8 design).  Mansion is viewed from a left angle, tomb is visible to the right of mansion. Tulip Grove mansion is visible in distant right background.  Inscription on left side below image: Litho of Endicott &amp; Co., N.Y.  In the center: Entered according to Act of Congress in the year 1856 by S.B. Jones &amp; Co. in the Clerk's Office of the District Court of the Southern District of New York.  On right side: Francis W. Strickland Archt.</abstract>
@@ -120,9 +120,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -26,8 +26,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a photograph of John Gerrard William De Brahm's map detail of the area of the Little Tennessee River Valley containing the Overhill Cherokee village of Tomotley. De Brahm spent time in Tomotley as the guest of Chief Ostenaco in 1756 and contributed to the design and building of Fort Loudoun, 1756-1759. In 1773 DeBrahm completed his "Report of the General Survey in the Southern District of North America" which includes information he gathered about the Cherokees while he lived among them.</abstract>
@@ -98,9 +98,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -36,9 +36,9 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 illustration; 10.2 x 13.3 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <form authority="http://vocab.getty.edu/aat/300026430">sheet music</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Sheet music cover from time of Compromise of 1850. Image of Capitol building surrounded by a golden chain, each link listing a state and the year it entered the Union. "In Union's Chain, with its Spell, Freedom &amp; peace &amp; safety dwell."</abstract>
@@ -88,9 +88,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

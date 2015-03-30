@@ -44,8 +44,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 7726 items</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Photograph of the Scopes Trail jury: Bluch Harros; Judge John Raulston; W. D. Taylor; Jesse Goodrich; Jack R. Thompson; William G. Day; R. L. Gentry; John Wright; R. D. West; W. D. Smith; James W. Riley; John W. Dagley; and John Bowman.</abstract>
@@ -86,9 +86,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

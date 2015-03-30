@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "Train wreck at Telford, Tennessee". The picture shows a train  thathas derailed at the Telford station in Tennessee.  One car bears the letters G. S. &amp; F. which stands for Georgia, Southern and Florida Railway, part of the Southern Railway System that also acquired ownership of the East Tennessee, Virginia, and Georgia Railroad Company in 1892.  Telford was a railroad station between Limestone and Jonesborough, Tennessee located in Washington County.</abstract>
@@ -80,9 +80,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

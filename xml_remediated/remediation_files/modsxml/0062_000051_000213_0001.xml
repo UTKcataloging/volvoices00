@@ -33,8 +33,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "TVA Fill Concreting along E-Line, Unit 1, Heater Bay Area, 84609-M". It is from a collection contributed by Donald R. (Little Joe) Adams. "The books you are now looking at were started in 1968 by apprentice of different crafts and professional photographers. There were originally three sets of these books, but due to the changing of the supervision in TVA, two of the sets were destroyed. The last remaining set was in my care for about 25 years. detail loc: Tennessee Valley Authority Notebook 2; county: houston</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

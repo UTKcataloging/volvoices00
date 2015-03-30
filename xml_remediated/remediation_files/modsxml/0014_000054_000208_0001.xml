@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 illustration</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A sketch from Frank Leslie's Illustrated Newspaper. The full caption is "Tennessee - Memphis under quarantine rule - Sisters of Charity Administering to Sick and Dying Victims of Yellow Fever." The image features a nun at thet door of a home with a sick husband lying in bed, while a child clings to her mother's apron.</abstract>
@@ -79,9 +79,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

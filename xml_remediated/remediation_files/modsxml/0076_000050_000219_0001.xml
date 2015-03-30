@@ -17,8 +17,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 postcard; 5.5 x 3.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300026816">postcards</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This postcard is titled, "Laurel Falls, dayton, Tenn. 16 below zero Jan.16, 1893.". Please notice how small the person appears standing at the bottom of the frozen waterfall.  This was printed in Germany.  see Pres.</abstract>
@@ -65,9 +65,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

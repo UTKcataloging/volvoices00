@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>1 tif. A black and white photograph of the dedication of the George and Ira Gershwin Library at Fisk University in Nashville, Tennessee.  The people posing for the photograph are L. Hollingsworth Wood, W. C. Handy, John W. Work, Virgil Thomson, Phillippa Duke Schuyler, and Dr. G. N. Redd. George Gershwin, along with his brother Ira who was a lyricist, created some of the most popular music of the 20th century. He wrote for Broadway including the show "Funny Face," and his most well-known titles include "Rhapsody in Blue," "Concerto in F," "An American in Paris." George, his brother, Du Bose Heyward, and Dorothy Heyward wrote "Porgy and Bess." George died of a brain tumor in 1937 at age 39; he was awarded a Pulitzer Prize posthumously in 1998.</abstract>
@@ -91,9 +91,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

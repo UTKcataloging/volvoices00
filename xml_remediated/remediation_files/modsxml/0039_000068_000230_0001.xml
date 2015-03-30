@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>As Ohio Valley Conference champions in 1989, MTSU upset Florida State in the first round of the NCAA Southeast Regional Tournament.  MTSU had made it to the NCAA tournament for the first time in school history in 1982.  The Blue Raiders then played the heavily favored Kentucky Wildcats, who were making their 27th appearance in the tournament.  But the Blue Raiders defeated the Wildcats 50-44 in one of the most memorable games in school history.</abstract>
@@ -93,9 +93,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

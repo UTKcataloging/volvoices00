@@ -36,8 +36,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 print</extent>
-      <form authority="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Advertising poster for Hatch Show Print in Nashville, Tennesse ... since 1879 ... history on the Country Music Hall of Fame website: http://www.countrymusichalloffame.com/site/experience-hatch.aspx</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

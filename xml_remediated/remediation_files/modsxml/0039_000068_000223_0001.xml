@@ -31,8 +31,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 5 x 7 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Senator Albert Gore ('32) visits with students.  Gore served in the U.S. House of representatives  from 1939 to 1953 and in the Senate from 1953 to 1971.  He was best known fro co-authoring the Interstate Highway Act (1956), for his support of civil rights, and for his opposition to the Vietnam War.</abstract>
@@ -93,9 +93,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

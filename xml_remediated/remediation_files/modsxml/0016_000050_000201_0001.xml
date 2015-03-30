@@ -37,8 +37,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Robert McNelley was the founding editor of the The Cleveland Banner newspaper, which he first published on May 1, 1854.  He issued the paper as a Democratic paper,as he was a southern supporter of the Civil War. He initially charged two dollars a year for an advance subscription or three dollars a year after an individual had received the paper for a year.  McNelley was born in Blount County, Tennessee in 1820 and  died at his home in Cleveland, Tennessee in 1882.</abstract>
@@ -81,9 +81,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

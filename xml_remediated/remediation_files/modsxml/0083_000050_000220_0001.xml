@@ -29,12 +29,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 cloth piece</extent>
-      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a small piece of a patterned flour or feed sack that women would reuse by sewing the material to make dresses and other clothing.  Feed and flour sack manufacturers began putting more colorful prints on their sacks around 1925, though the sacks were used for sewing clothes before the 20th century.</abstract>
-   <genre/>
+   <genre>Cloth</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -78,9 +78,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

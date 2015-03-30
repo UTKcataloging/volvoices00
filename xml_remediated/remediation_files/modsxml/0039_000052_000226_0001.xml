@@ -34,8 +34,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>"The Dromgooles and Claxtons gave their usual joint program at the first meeting of the Fall Term.  Addresses of welcome were delivered by the presidents of both Societies.  The program consisted of readings, dialogues, musical numbers, and contests followed by refreshments and social hour.  A large crowd was present and all sitting and standing room was taken" (The Normalite, October 1922).</abstract>
@@ -94,9 +94,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Marshall "Grandpa" Jones and Roy Joe Baxter pose with Roy Joe's stream-lined Jeep in Munich, Germany, 1945. The Jeep was named "the Hunk." After the war Jones attained fame as a musician on the Grand Ole Opry. At the age of 32 he was already called "Grandpa"-- he got his nickname ten years prior due to his grouchy moods on his morning radio show. The Jeep was most likely a government contracted passenger model made by Ford or Willys. There were over 500,000 of these cars produced during the War.</abstract>
@@ -88,9 +88,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

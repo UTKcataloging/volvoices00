@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Color image of Major Ridge, a Cherokee Chief. Imprint reads, published by E.C. Biddle, Philadelphia. Drawn, printed and colored at I.P. Bowens Lithographic Establishment No. 94 Walnut St. Entered according to act of Congress in the Year 1837 by E.C. Biddle in the Clerks Office of the District Court of the Eastern District of Pennsylvania.</abstract>
@@ -62,9 +62,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

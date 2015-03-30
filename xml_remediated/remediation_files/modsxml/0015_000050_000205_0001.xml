@@ -29,12 +29,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 cartoon; 7 x 10.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This political cartoon shows a harried Colonel Tennessee on a sofa, his hat on the floor, upturned with its brim labeled 'Tennessee Legislature.' Two young women sit on either side of the Colonel, vying for his attention. One represents 'suffrage' and the other 'anti-suffrage.' A sign tacked up on the wall behind them says 'Special Session,' as the legislature of Tennessee was meeting at the time to decide upon the ratification of the 19th Amendment. Henry Romeike, Inc. of New York, NY provided this clipping to Carrie Chapman Catt.</abstract>
-   <genre/>
+   <genre>Political cartoons</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -96,9 +96,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Is Part Of">
       <titleInfo>

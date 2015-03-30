@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 drawing</extent>
-      <form authority="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a drawing of a late 18th century Cherokee domestic structure, based on historic descriptions and archaeological excavations by the University of Tennessee. This rectangular building is typical of a Cherokee summer home, which was usually built next to a conical winter house. Excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA) in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir. The drawing is by Thomas Whyte.</abstract>
@@ -104,9 +104,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

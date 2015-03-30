@@ -29,12 +29,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 cartoon</extent>
-      <form authority="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This illustration is titled, "Feminism, a cartoon". It is a political cartoon in support of Women's Suffrage, the early 20th century movement in support of women's right to vote and other rights.</abstract>
-   <genre/>
+   <genre>Political cartoons</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

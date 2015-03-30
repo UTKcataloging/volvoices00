@@ -31,12 +31,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 cartoon with caption; 15 x 15 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This cartoon depicts Federal Judge Alan T. Goldsborough speaking from the bench to Clark and Lewis appearing before him. The caption reads "Hasn't This Man Been Here Before?" The inscription at the bottom reads "With warm regards to H. Graham Morison, Gib Crockett." H. Graham Morrison served as U.S. Assistant Attorney General from 1948 through 1952. Thomas Campbell Clark served as the Attorney General of the United States from 1945 through 1949 when he was appointed to the United States Supreme Court. He was known for his work against labor unions. John L. Lewis founded the Congress of Industrial Industries and was president from 1936-1940 and had been a long-time union leader, beginning with working in the United Mining Workers of America.</abstract>
-   <genre/>
+   <genre>Political cartoons</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -99,9 +99,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

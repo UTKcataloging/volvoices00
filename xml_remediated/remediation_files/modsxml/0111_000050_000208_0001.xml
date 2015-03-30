@@ -17,12 +17,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 postcard</extent>
-      <form authority="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The Cordell Hull Stamp on the first Day of issue.  It was cancelled at Carthage, Tennessee.  On this day there was press, and thousands of people to witness this.  Cordell Hull (1871-1955) served as the U.S. Secretary of State from 1933 until 1944.</abstract>
-   <genre/>
+   <genre>Postage stamps</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -72,9 +72,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

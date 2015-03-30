@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 postcard</extent>
-      <form authority="http://vocab.getty.edu/aat/300026816">postcards</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026816">postcards</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>In a staged photo printed as a postcard, Gaskell Warren holds the Southern Germany edition of "The Stars and Stripes" newspaper for August 15, 1945. The headline proclaims: "War Ends. Truman Announces Total Surrender." "The Stars and Stripes" was the daily paper of the U.S. armed forces in Europe, with many editions throughout the continent. During WWI, roving U.S. soldiers wrote for the paper, and many returned to journalism fame after the war. In WWII, "The Stars and Stripes" was revived, and in addition to the paper, published the 53-book G.I. Stories. The papers contained cartoons, and commentary as well as the news. "The Stars and Stripes" was created by Illinois soldiers in the Civil War, and continues to be published during present military campaigns.</abstract>
@@ -91,9 +91,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

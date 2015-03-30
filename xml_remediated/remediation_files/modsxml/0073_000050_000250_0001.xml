@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "W.E.B. DuBois and others". W.E.B. DuBois, one of the foounding members of the national NAACP, visited Knoxville in 1914.  In the photograph from left to right are:  C.W. Cansler, DuBois, Wiliam Yardley, W.M. Brooks, Rev. Black, Howard Carter, unidentified, Dr. S.M. Clark, Dr. J.H. Presnell, Rev. J. Byers, and unidentified.</abstract>
@@ -84,9 +84,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

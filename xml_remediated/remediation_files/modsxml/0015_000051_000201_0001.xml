@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 10 x 13.75 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Photo from scrapbook with caption that reads: Front or Outer office of Anti-Ratification Headquarters, Hotel Hermitage, Mrs. Morgan Brown, Executive Chairman, standing at the Entrance. Seated is a (relay?) of many prominent Nashville women, who faithfully served their state in detachments, day and night, during August 1920. Standing in the rear at the Entrance to the inner office of the President and Vice-President, Miss Josephine A. Pearson and Mrs. George A. Washington, respectively; is Mrs. Jas. Pinkard, President General of the Southern Women's League for the Rejection of the Susan B. Anthony Amendment. To her right, in the center, is Miss Charlotte Raine, field Speaker of the National Association Opposed to Woman Suffrage; near her to the right, is Mrs. Aspy of Boston, Field Organizer of the National Association.</abstract>
@@ -110,9 +110,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

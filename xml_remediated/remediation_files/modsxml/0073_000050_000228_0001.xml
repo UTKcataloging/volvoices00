@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The Knoxville Gun Club poses with rifles in a field.  The thirteen men are all well-dressed and standing: many wear ties and all of them wear hats.  Some of the men have been identified on the back of the photo: 3 unidentified, Brewer, Keaton, Dr. Charles Boyd, 4 unidentified, Burke, Kennedy, and Glover, all well-known names in the local black community.  There are at least five younger boys in the photograph.  Two of them sit on the ground in front of the group, while the other three are either crouched or stand behind the group.</abstract>
@@ -95,9 +95,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

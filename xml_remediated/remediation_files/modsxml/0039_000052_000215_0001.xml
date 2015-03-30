@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Charles Gene Sarver, a guard on this team, won five dollars in a contest naming the team the "Raiders" after the Colgate Red Raiders.  Since State Teachers College team colors were blue and white, the local teams became the "Blue Raiders."  According to Sarver, President Q.M. Smith and Public Relations director, Gene Sloan, decided to add a mascot dressed as one of Confederate General Nathan Bedford Forrest's "raiders."</abstract>
@@ -94,9 +94,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

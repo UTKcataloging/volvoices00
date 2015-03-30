@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a photograph of mid-18th century Kaolin smoking pipes recovered from Chota. The Overhill Cherokees traded actively with the lower Cherokees of Georgia and South Carolina. Chota was recognized by Europeans as well as other Indians for its powerful economic influence and was regarded as the capital of the Cherokee nation. The University of Tennessee conducted excavations of Chota from 1969-1974 in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir. The university worked under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Directors, J. Worth Greene, Duane H. King, and Gerald F. Schroedl.</abstract>
@@ -117,9 +117,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

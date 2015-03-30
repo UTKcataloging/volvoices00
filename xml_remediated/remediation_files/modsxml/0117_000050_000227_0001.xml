@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is of a European manufactured iron hoe head traded to the Cherokees in the mid-18th century. It was recovered by the University of Tennessee during an excavation of the Overhill Cherokee village of Chota. Chota was recognized by Europeans as well as other Indians for its powerful economic influence and was regarded as the capital of the Cherokee nation. The Cherokees kept small vegetable plots near their homes as well as maintained large communal agricultural fields of beans, corn, and squash. Excavations of Chota and other Overhill villages were conducted by the University of Tennessee between 1967 and 1983 as part of the Tellico Archaeological Project in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Director, J. Worth Greene.</abstract>
@@ -113,9 +113,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

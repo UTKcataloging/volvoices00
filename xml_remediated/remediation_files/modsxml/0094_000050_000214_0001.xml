@@ -29,12 +29,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 object</extent>
-      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A copper kettle used in a slave cabin on Buckner Place in Union County, Tennessee.  There is an interesting pattern of circles that run the rim of the kettle.</abstract>
-   <genre/>
+   <genre>Kettles</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

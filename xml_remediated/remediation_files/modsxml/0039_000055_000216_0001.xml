@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image; 10 x 8 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Ethel Licker Haney (far left), daughter of Polish immigrant Sam Licker, welcomes her childhood friend, Jean Faircloth (Mrs. Douglas MacArthur, third from left), to Murfreesboro.  General MacArthur (fifth from left) and the couple's son, Arthur (fourth from left), visited his wife's hometown in 1951 shortly after being relieved of his command in Korea.</abstract>
@@ -108,9 +108,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

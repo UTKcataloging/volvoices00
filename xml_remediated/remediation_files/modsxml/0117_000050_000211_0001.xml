@@ -21,8 +21,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a photograph of a map of the Overhill Cherokee sites that were occupied during the 18th century. The map is based on Henry Timberlake's 1762 map of the area as well as archaeological investigations made in 1967 through 1982, by The University of Tennessee as part of the Tellico Archaeological Project in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). These well- known Overhill settlements of Mialoquo, Tuskeegee, Toqua, Chota, Citico, Tallassee, and Chilhowee are now all under water. The Cherokees who were located in north Georgia, northwest South Carolina, and Western North Carolina had to travel over the mountains from South Carolina to reach their brethren who lived in the lower Tennessee and Hiawasee River Valleys and thus they were referred to as the Overhill Cherokees.</abstract>
@@ -88,9 +88,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

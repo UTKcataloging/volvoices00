@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 10 x 13.75 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Scrapbook page containing a photo of Anti-suffragists with a Confederate veteran at their headquarters at the Hermitage Hotel in August 1920. The caption reads: "Truth crushed to the Earth will rise again" - is illustrated in this lovely picture of Mrs. Jas. S Pinkard, President General of the Southern Women's League for the Rejection of the Susan B. Anthony Amendment, who as grand-niece of John C. Calhoun - unfurls the Confederate flag as emblematical of Southern States Rights fight for the defeat of the Federal Amendment; to her left sits the veteran who "fought and bled" for Tennessee's States Rights; standing to his left, holding the flag of the Union, is Miss Josephine A. Pearson, Pres. of the Tenn. Division of the Southern Women's Rejection League for the Rejection of the Susan B. Anthony Amendment, who led the fight in Tennessee which became the BattleGround of the nation. August 1920.</abstract>
@@ -113,9 +113,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

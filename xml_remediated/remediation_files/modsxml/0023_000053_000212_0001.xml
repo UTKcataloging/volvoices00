@@ -26,12 +26,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 flier; approximately 10 x 20 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Gossett, Ford and Bro's on East Side Market Square in Knoxville, TN are advertising Ladies' Misses' and Children's shoes and hats for low prices.  A humorous image at the top pictures a policeman pulling a thief off a man whom he has knocked down.  The victim is saying, "Officer, don't arrest the man, as he was not aware he could buy Shoes of  Gossett, Ford &amp; Bros Cheaper than he could steal them." The much larger caption underneath the image reads, "The brisk nickel is better than a slow dime." A large image of a shoe tree appears in the middle of the broadside.</abstract>
-   <genre/>
+   <genre>Advertisements</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -66,9 +66,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

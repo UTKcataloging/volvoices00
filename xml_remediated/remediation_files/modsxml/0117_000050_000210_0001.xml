@@ -31,8 +31,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a (1974 ?) facsimile of a map, originally drawn in 1762 by British army officer Henry Timberlake, depicting the Overhill Cherokee villages in the lower Little Tennessee River Valley. This map shows the villages of Toskegee [Tuskeegee], Tomotley [Tomotley], and Settaco [Citico], which were among the 60 Cherokee settlements in the Southeastern states during the 18th century. Lieutenant Timberlake went to the village of Chota, considered to be the capital of the Cherokee settlements, in 1761 to explain the provisions of a peace treaty with the colonists after the siege of Fort Loudoun. Timberlake lived among the Cherokees for a year and visited many of the Overhill villages.</abstract>
@@ -103,9 +103,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

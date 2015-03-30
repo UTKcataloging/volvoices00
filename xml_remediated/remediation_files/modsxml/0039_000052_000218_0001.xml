@@ -35,8 +35,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>"This is the busiest place on the campus.  Since its foundation in 1927, there have been very few days when it was not in use from eight o'clock in the morning until five in the afternoon.  It seems that books are truly the pleasantest things in the world" (Midlander, 1933).  Designed by C.K. Colley, the building stood near the present site of Peck Hall at Middle Tennessee State University.  Named for Mrs. Bettie Murfree, librarian from 1911 until 1945, it later housed the English Department for ten years until the building was demolished in 1968.</abstract>
@@ -89,9 +89,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

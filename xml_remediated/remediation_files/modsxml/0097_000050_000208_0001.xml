@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of Hitler's home, the Berghof, as it stood in partial ruins after World War II. The Berghof, located in the Alps of Berchtesgaden, Germany, was Hitler's primary residence during World War II, and was used as one of the Headquarters for the Nazi movement. The house itself was developed from an earlier summer home, and built using the profits from the publication of "Mein Kampf." Berchtesgaden was purchased by the Nazis in the 1920s for their senior officers, and served as an outpost for the German Reichskanzlei office. The mountains were home to Nazi leaders and the area included a station, postoffice and the Berchtesgadener Hof Hotel. Most of the buildings in Berchtesgaden were destroyed immediately after the war.</abstract>
@@ -83,9 +83,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

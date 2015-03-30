@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>In this photograph, Gallatin, Tennessee native, Lt. (j.g.) Sidney D. Hix, USNR, appeared aboard torpedo boat 108, for which he was the skipper. A 1942 graduate of Vanderbilt University, Lt. Hix died of wounds received in action in the British Solomon Islands 22 Aug 1943. John F. Kennedy was on similar duty on PT 109 at this time in the same area.</abstract>
@@ -78,9 +78,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

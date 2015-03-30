@@ -33,8 +33,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 map; 20.7 x 10 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028094">maps (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The title on the map is: Map of the Tennassee Government, formerly Part of North Carolina taken Chiefly from Surveys by Gen'l D. Smith &amp; others. Engraved for Carews? American Edition of Guthrie's Geography ?? appears along the top. Map shows Knoxville, Nashville, and Clarksville as well as several Cherokee towns in eastern Tennessee. The site of present-day Memphis is called Chickasaw Bluff, shows the southern boundary of the military reservation in middle Tennessee. Rivers, public roads and various geographic features are labeled, such as "High Broken Ground" in southern middle Tennessee and "Light Soil Long Grass Little Timber Broken Ground on the Heads of these Rivers" in west Tennessee.</abstract>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

@@ -31,8 +31,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a photograph of a pit-feature at the Overhill Cherokee town of Tomotley. The pit was originally used to recover soil or to store food, and was later filled with refuse. Excavations of Overhill Cherokee villages were conducted by the University of Tennessee between 1967 and 1983 as part of the Tellico Archaeological Project. Excavations continued until 1983, and laboratory studies and report preparation continued until 1987. The excavations were conducted in anticipation of the flooding of the Lower Little Tennessee River Valley, in eastern Tennessee, by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal Investigator, Alfred K. Guthe. Field Director, Gerald F. Schroedl.</abstract>
@@ -102,9 +102,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

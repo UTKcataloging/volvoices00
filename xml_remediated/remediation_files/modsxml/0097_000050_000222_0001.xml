@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of two dead SS troops at Buchenwald concentration camp. Buchenwald concentration camp was opened in July, 1937 in Weimar, Germany and used by the Nazis primarily as a slave labor camp, although an extraordinary number of deaths occurred at the camp due to harsh conditions and human experimentation. Buchenwald had three parts with a "tent camp" set up for Polish prisoners in 1939. 238,980 prisoners from thirty countries passed through Buchenwald and its satellite camps, of these 43,045 were killed. The camp was especially linked to the execution of Soviet prisoners of war, and at least 1,000 soviets were killed in the years 1941-1942. Nazi doctors used prisoners as test subjects for vaccines and killed hundreds as a result.  In all over 30,000 were killed before the camp was overtaken in April of 1945. Around 200 women were held in Buchenwald, and the camp was used to incarcerate Allied POWs. The author Elie Wiesel was held at Buchenwald as well. Despite the atrocities by guards, an underground resistance developed and saved the lives of some sentenced to death within the camp's ranks.
@@ -84,9 +84,6 @@ After the war Buchenwald was used to house German war criminals and used by the 
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

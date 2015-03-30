@@ -44,8 +44,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300026657">periodicals</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>"The Guardian: A Family Magazine, Devoted to the Cause of Female Education on Christian Principles" was founded by Reverend Franklin Gillette Smith while he led The Columbia Female Institute in Columbia, Tennessee. He continued to publish The Guardian when after he left the institute to form his own female college, The Athenaeum in 1851.  He resigned after a scandal and started his own female  Smith listed as "editor and proprietor" also an author Otey gave "aid" - so list as an associated name  The magazine was issued monthly and cost $1.50/year.   Printed by A. M. &amp; J. B. Rosborough  The Athenaeum has issues of The Guardian for the years 1841-1854.  1 tif</abstract>
@@ -76,9 +76,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

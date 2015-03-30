@@ -33,12 +33,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 plaque</extent>
-      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This plaque given by the city of Knoxville, Tennessee to Arnetta G. Wallace (1904-1995), officially proclaims May 30th, 1987 Arnetta G. Wallace Day.  Mrs. Wallace worked in the Knoxville City school system and retired from Vine Junior High School.  She was active in many civic, religions, social, and educational efforts in the city of Knoxville.  She attended Knoxville College from her grade school education through her baccalaureate study.  She earned two undergraduate degrees from Knoxville College in Foreign Language and Music.  She was a leader in the Alpha Kappa Alpha sorority, serving as 14th International President from 1953-1958. Mrs. Wallace was a native of Knoxville.</abstract>
-   <genre/>
+   <genre>Plaques</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -104,9 +104,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

@@ -31,8 +31,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is titled, "Ku Klux Klan - Plaque of Founding - 1-2-165". It is a picture of the plaque noting the founding of the Ku Klux Klan in Pulaski, Tenn. Plaque reads: Ku Klux Klan organized in this, the law office of Judge Thomas M. Jones, December 24th, 1865. Names of original organizers Calvin E. Jones, John B. Kennedy, Frank O. McCord, John C. Lester, Richard P. Reed, James R. Crowe. Jamie Porter written on back.</abstract>
@@ -95,9 +95,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

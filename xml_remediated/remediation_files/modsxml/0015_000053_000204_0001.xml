@@ -30,9 +30,9 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 illustration; 10.2 x 13.2 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <form authority="http://vocab.getty.edu/aat/300026430">sheet music</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Colorful sheet music cover of a Civil War era song showing Columbia holding the United States flag, an eagle, ships and weapons.</abstract>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

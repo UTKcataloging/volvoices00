@@ -29,12 +29,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 cartoon; 6.75 x 8.5 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This political cartoon shows two suffragists wearing "Votes for Women" sashes, standing outside the Tennessee legislature while it's in special session about the ratification of the 19th Amendment on Friday the 13th. One is fearful of what will happen, and the other is optimistically positive about what the legislature will do on the women's suffrage issue. Henry Romeike, Inc. of New York, NY provided this clipping to Carrie Chapman Catt.</abstract>
-   <genre/>
+   <genre>Political cartoons</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -86,9 +86,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Is Part Of">
       <titleInfo>

@@ -32,12 +32,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 page</extent>
-      <form authority="http://vocab.getty.edu/aat/300028051">books</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028051">books</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>School pictures of students and teacher of the 4th-6th grades of W. T. Thomas School in southeastern Stewart County, Tennessee near Cumberland City, Tennessee. The school served grades 1-12 and had several teachers.</abstract>
-   <genre/>
+   <genre>School yearbooks</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -83,9 +83,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

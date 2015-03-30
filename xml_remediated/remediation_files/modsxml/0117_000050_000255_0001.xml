@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is of a scale cabin reconstruction at the Red Clay site at Red Clay State Park in Bradley County, Tennessee. Federal Period Cherokee did not use machine rounded logs or saddle notch in the construction of their log cabins like what the photograph here shows. The Federal Period Cherokee would have cut their own logs and would have used wither dovetail, half-dovetail, or 'V' notching for their cabins. By 1832, the state of Georgia had refused the Cherokee the right to hold council meetings unless the meeting dealt with treaties that gave away their lands. The Cherokee decided to move their capital from New Echota, Georgia across the state line to Red Clay, Tennessee because the state of Tennessee did not prohibit the Cherokees from meeting together. Thus, Red Clay became the seat of the Cherokee government in 1832 and lasted until the removal of the Cherokees to the west in 1838. Red Clay was composed of 11 general councils and the meetings were attended by up to 5000 people. It was at Red Clay that the Cherokee learned that they had lost all of their land and would be removed to the west. Red Clay consists of the sacred Blue Hole Spring, a reconstructed council house, and several reconstructed homestead buildings. Red Clay is home to the Eternal Flame, lit on April 6, 1984. The Cherokees took hot coals from their council fire at Red Clay on the Trail of Tears. The flame was taken to Cherokee, North Carolina in the 1950s but was returned to Red Clay in 1984.</abstract>
@@ -78,9 +78,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

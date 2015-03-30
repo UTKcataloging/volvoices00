@@ -30,9 +30,9 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 illustration; 10.4 x 13.7 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <form authority="http://vocab.getty.edu/aat/300026430">sheet music</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The cover of sheet music to a popular romantic song in which a young man tries to convince a girl to visit his family in Nashville, Tennessee. The cover shows the couple hurrying to make the train to Nashville.</abstract>
@@ -98,9 +98,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

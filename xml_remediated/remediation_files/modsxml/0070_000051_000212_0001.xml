@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Tigerbelles Edith McGuire and Wyomia Tyus of Tennessee A &amp; I State University (now Tennessee State University) sit upon a suitcase, surrounded by their luggage at the Nashville Municipal Airport prior to traveling to Toyko, Japan for the 1964 Olympic Games. They were members of the 4x100 relay team that won a silver medal. Tyus won the gold medal and McGuire the silver medal in the 100 meters. McGuire won the gold medal for the 200 meters.</abstract>
@@ -94,9 +94,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

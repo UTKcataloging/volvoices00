@@ -49,8 +49,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Twenty-four employees of the Englewood Manufactuing Company are in this picture.  Approximately half of them appear to be children who are ten years or older.  According to the book, Then &amp; Now: the women of Englewood's textile mills, the Englewood Manufacturing Company produced abouut one hundred dozen misses and children's hose daily, both cotton and worsted.  In the left background of the picture, there is a mill cottage located on Sock Hill.</abstract>
@@ -104,9 +104,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

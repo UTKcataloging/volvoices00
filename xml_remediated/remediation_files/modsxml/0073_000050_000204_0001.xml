@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Members of an Early Alpha Kappa Alpha Soriority, Inc., Knoxville Chapter.  First row seated, Left to Right:  Edith Nowlin, Emma Stokes, Bonnie Brown, Elizabeth Bragg, Hazel Henderson, and Dorothy Nance. Second row seated, L to R: Alfredda Delaney, Margaret Carson, Edna LeFlore, Susie Davis, Olive Wallace, Sally McCclatchy, Sallie Carr and Augusta Hyatt.  Third row Standing, L to R: Ozina Roberts, Lottie Gordon, Wilhelma Bishop, Modestine Young,  Arnetta Wallace, Henri Green, Willard Daves, Laura Hardin, Mildred Henderson, and Mildred Ward.  Forth Row Standing L to R: Mildred Netherland, Mable Walker, Ethel Downer, Arvella Pickett.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

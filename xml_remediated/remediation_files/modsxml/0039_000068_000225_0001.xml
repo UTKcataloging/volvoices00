@@ -34,8 +34,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; 5 x 7 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Completed in 1968, this classroom building was subsequently named in honor of Richard and Virginia Peck.  Dr. Richard Peck served as chairman of the English Department from 1946 to 1973.  The building, situated directly across from Kirksey Old Main, is now a campus landmark.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

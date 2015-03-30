@@ -29,9 +29,9 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 page; 10.5 x 14 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <form authority="http://vocab.getty.edu/aat/300026430">sheet music</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026430">sheet music</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Sheet music cover image with stereotypical scene of southern black family outside of a cabin, singing as two boys play the banjo and the fiddle.</abstract>
@@ -91,9 +91,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

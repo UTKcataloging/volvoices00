@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>1 tif. An image of Fisk School, housed in former Union barracks, at its founding in 1866. The image is tinted orange and shows a set of small buildings bounded by fences. In the courtyards, large groups of students are gathered. The photograph is from June, 1886 though courses started on January 9, 1866. Fisk School was named after General Clinton B. Fisk of the Tennessee Freedmans Bureau which provided the school's facilities. The school was associated with education of African Americans, with W.E.B. Du Bois a member of the 1888 class. It was the first African-American college to receive accreditation in 1930.</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

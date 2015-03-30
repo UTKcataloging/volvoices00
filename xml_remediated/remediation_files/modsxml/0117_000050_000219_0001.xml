@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 drawing</extent>
-      <form authority="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300033973">drawings (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a drawing depicting the central area of the Overhill Cherokee town of Chota around the mid-18th century. It shows a central village plaza with a large circular winter townhouse and a smaller rectangular summer townhouse. Both were used for public, social, and political events. Shown also are similar domestic dwellings with a circular winter house alongside a rectangular summerhouse. The drawing is based on historical descriptions as well as archaeological excavations conducted by The University of Tennessee from 1969-1974. The excavations were conducted in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Directors, J. Worth Greene, Duane H. King, and Gerald F. Schroedl. The drawing is by Thomas Whyte.</abstract>
@@ -115,9 +115,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

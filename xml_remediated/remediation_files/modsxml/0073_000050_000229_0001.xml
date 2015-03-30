@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The photograph shows African American schoolchildren standing and kneeling for the picture, wtih the teacher on one side and a man with a drum on the other side. Verso side reads, "Heiskell School -- 1911, Mrs. Lula Enloe."  Heiskell Elementary School was one of the first schools for African Americans in the city of Knoxville, Tennessee.  It was built during the administration of Mayor Samuel G. Heiskell. The school was located on Campbell Street, between Georgia and Kentucky Streets</abstract>
@@ -89,9 +89,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

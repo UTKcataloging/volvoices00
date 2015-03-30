@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>1 tif. A framed photograph of the Power House, Industrial Home in Morristown Tennessee. The powerhouse was located off of a road with power lines, and  is crudely fenced from the street. It features one tall exhaust tower over a long, short hip roofed structure. The words Power House, Industrial Home, Morristown, Tennessee are written on the photograph.  Notations included with the photograph contain the following information:  Morristown's second electric plant with Morristown College in the background (c.1910). Morristown Power Plant located off North Cumberland Street on Cherokee Drive.  This 1900 Power Plant burned coal that was hauled by the Old Pea Vine Railroad.  This was replaced in the 1920s by a Power House on the Holston River.  TVA built Cherokee Dam in 1941 and this Power Plant replaced all the old Power Plants. Photo circa 1910.</abstract>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

@@ -30,15 +30,15 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 memorial card</extent>
-      <form authority="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>On the right side of this card is a photograph of Mr. Hobart Shand.
  On the left side is the follwing text; "Mr. Hobart Shand  District Commander of the state of Tenn.  He visited all of the black post of the American Legion. 
  Mr. Shand was a resident of Bristol, Tenn. 
  (He died in 1954.)</abstract>
-   <genre/>
+   <genre>Memorial cards</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -92,9 +92,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph; approximately 200 linear feet</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A man, woman, and another individual stand on the porch of Hotel Clue in Madisonville, Tennessee.  The hotel is a large, wooden, two-story building surrounded by a wood rail fence.  The decipherable writing on the verso side reads: "Behind courthouse, one block north toward Sweetwater, Tellico St., owned by Charles M. Hicks.  Site of McGhee, James, Howard shoot-out.  Madisonville, Tenn."</abstract>
@@ -77,9 +77,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

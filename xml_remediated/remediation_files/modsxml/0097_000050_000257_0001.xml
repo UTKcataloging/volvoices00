@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>An image of a G.I. and a French Moroccan soldier in Strasbourg, Germany-France in October, 1945.  French Moroccan soldiers were called goumiers, and were soldiers in auxiliary units to the French Army. Approximately 8,000 goumiers were killed during the war, and there was  a great deal of controversy concerning some goumiers in Italy in 1944 in relation to their acts toward civilians.  During the final months of the war goumiers assisted in efforts to take Stuttgart and Tubingen, Germany. By mid-1946, all gourmiers had been repatriated to Morocco.</abstract>
@@ -72,9 +72,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

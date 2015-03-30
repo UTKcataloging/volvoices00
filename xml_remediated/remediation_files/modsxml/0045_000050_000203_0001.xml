@@ -30,8 +30,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 poster; 8.2 x 12.6 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This poster advertised the 1856 campaign of Millard Fillmore and Andrew J. Donelson for the presidency and vice-presidency on the National American ticket. The poster has oval sketches of each man, surrounded by flags and ivy, with the slogan "The Constitution and the Union" above their heads. Note: copyrighted by N. Currier in NY, 1856. Published in N.Y.</abstract>
@@ -84,9 +84,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

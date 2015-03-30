@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 illustration</extent>
-      <form authority="http://vocab.getty.edu/aat/300015578">illustrations</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300015578">illustrations</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is an sketch of Franklin College in Franklin, Tennessee.  Franklin College was founded in 1845 by Rev. Tolbert Fanning in an attempt to bring education to the poor.  The college was closed at the outbreak of the Civil War.  The building was burned in 1866 and is now the property of Fanning Orphan School. In front of the main building is a large circle drive. Several house-size buildings are next it.  In the foreground is a large courtyard with newly planted trees.</abstract>
@@ -70,9 +70,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

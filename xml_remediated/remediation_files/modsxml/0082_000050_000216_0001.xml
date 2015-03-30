@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 image</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>1 tif. A group portrait of ten women who assisted the Red Cross in World War I. The women wear long white dresses with large pockets and wide lapels, and don white bonnets with the red cross insignia. During the conflict, women worked with the American Red Cross in production, blood donor service, motor corps and other support services for the soldiers abroad. Notations included with the framed photograph contain the following information: Red Cross Ladies, World War I, Morristown, TN, 1914. Left to Right: Mrs. Annie Hill Portrum, Mrs. Frank Nance, Mrs. Judson Hill, Mrs. E.M. Willis, Mrs. Bob Rodgers, Mrs. Lynn Sheeley, Mrs. ____ Thompson, Mrs. Sullins Dosser, Mrs. Shields Carroll and Ann.</abstract>
@@ -81,9 +81,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">Public domain.</accessCondition>
    <recordInfo>

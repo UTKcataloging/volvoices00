@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>The 508 M.P. began duty in Munich in July, 1945 and divided the city into three sectors to control a large number of displaced people and their camps. In August of 1945 the troop was relieved of their duty to direct traffic, but maintained a presence in the city to control crime.  The 508 deactivated in 1964, after service in Munich including escorting Eisenhower through the city in 1946.  Vipiteno, Italy was a small town located just south of the German/Italian border. The city's railroad bridge was heavily bombed in 1945 because the city was the main link between Germany and Italy during the war. Many inhabitants of the city speak German, and the city may also be known as Sterzing, Italy. The image shows the Italian basilica The Torre delle Dodici in the background, with the 508 M.P. troops roaming the streets.</abstract>
@@ -76,9 +76,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

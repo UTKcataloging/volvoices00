@@ -29,12 +29,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 cartoon; 7.25 x 10 inches</extent>
-      <form authority="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123430">cartoons (humorous images)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This political cartoon illustrates the constitutional controversy that ensued after the Tennessee legislature ratified the 19th Amendment. A teacher with a desk labeled "National Woman Suffrage" has her partially eaten apple, labeled "Ratification," stolen by a misbehaving boy from Tennessee, who exclaims, "I didn't give it to ya ta keep!" Behind the teacher, there is a Roll of Honor of the 36 states who had ratified the 19th Amendment on which number 36, Tennessee, is crossed out. Henry Romeike, Inc. of New York, NY provided this clipping to Carrie Chapman Catt.</abstract>
-   <genre/>
+   <genre>Political cartoons</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -93,9 +93,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Is Part Of">
       <titleInfo>

@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>1 tif. A black and white photograph of the poet Langston Hughes during a lecture at Fisk University. Hughes, 1902-1967, was an American poet, novelist, playwright and writer who was best known for his work during the Harlem Renaissance. His best known works include "Montage of a Dream Deferred," "Not Without Laughter," "Songs Called the Blues," and "the Ballad of Booker T.". Hughes was known as the "Poet Laureate of Harlem" and was seen as the voice of the African-American experience during the 20th century.</abstract>
@@ -90,9 +90,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

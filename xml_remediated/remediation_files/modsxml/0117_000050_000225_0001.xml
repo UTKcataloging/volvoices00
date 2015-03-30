@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is of glass trade beads, kaolin pipe fragments, and small metal button fragments found in excavations of the mid-18th century Cherokee village of Chota. The Overhill Cherokees traded actively with the lower Cherokees of Georgia and South Carolina. Chota was recognized by Europeans as well as other Indians for its powerful economic influence and was regarded as the capital of the Cherokee nation. Excavations of Chota and other Overhill villages were conducted by the University of Tennessee between 1967 and 1983 as part of the Tellico Archaeological Project in anticipation of the flooding of the Lower Little Tennessee River by the Tellico Dam Reservoir. The excavations were conducted under contract with the National Park Service and the Tennessee Valley Authority (TVA). Principal investigator, Alfred K. Guthe. Field Director, J. Worth Greene.</abstract>
@@ -116,9 +116,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

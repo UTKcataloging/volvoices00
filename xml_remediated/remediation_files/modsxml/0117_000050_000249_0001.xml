@@ -25,8 +25,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This photograph is of a reconstructed blockhouse at Fort Southwest Point, located near the city of Kingston, in Roane County, Tennessee. There are four reconstructed blockhouses at the fort, with two blockhouses located at the west end of the fort and the other two located at the east end. Fort Southwest Point was established in 1792 as a blockhouse post for the territorial militia troops that were protecting white settlers from Indian acts of hostility. By 1797, the militia was replaced by Federal troops whose goals were to maintain peace with the Indians and protect their rights on the frontier. During the years between 1801-1807, the fort was established as the headquarters for the Cherokee Agency. In 1974, archaeological crews from the University of Tennessee unearthed portions of six fort building foundations, the remains of a massive stone wall, and many fort-period artifacts. A 1984 excavation of the site by the Department of Conservation and the City of Kingston located the sites of a total of thirteen buildings. These buildings include an officer's barracks, four blockhouses, and several buildings that are believed to have been barracks. A complementary excavation in 1986 revealed the location of two more buildings, bringing the total to fifteen buildings. The excavation also produced a more detailed examination of the palisade and stone wall enclosures, and uncovered several historic and prehistoric features.</abstract>
@@ -89,9 +89,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

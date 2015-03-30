@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Gaskell Warren poses beside a sign marking the French zone of occupation in Austria on September 16, 1945. In 1938 Austria became part of Nazi Germany through forced annexation, but Austria was reinstated as a part of the Allies in 1945, just before the Nazi surrender.  After the war, Austria was divided into four zones of occupation, the easternmost of which was French, and connected to the United States zone of occupation. Allied occupation of Austria ended in 1955 when all four zones united into modern Austria.
@@ -82,9 +82,6 @@ FranzosischeBesatzungszone in Os[ ]rreich."</abstract>
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

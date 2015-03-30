@@ -36,8 +36,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 print</extent>
-      <form authority="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Poster for a relief concert at Jackson Hall of the Tennessee Performing Arts Center featuring Chet Atkins, Roseanne Cash, New Grass Revival, Steve Wariner, Nashville Bluegrass Band, and Tracy Nelson. The cost of a ticket was $12.50.    LeQuire, Alan - sculptor who carved the artwork    c.1987</abstract>
@@ -93,9 +93,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

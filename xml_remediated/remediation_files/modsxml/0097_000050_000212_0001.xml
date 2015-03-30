@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A picture of the Melody Boys, posing at the Radio Station AFN-Munich. The AFN-Munich was the American Forces Network in Germany, and began broadcasting in 1945. Marshall Jones, who played banjo and sang in the "Melody Boys," later attained fame in the Grand Ole Opry and on the program "Hee Haw."The back of the image reads: "The Melody Boys, Radio Station AFN-Munich, 100,000 watts - 1249 kilocycles. Munich, Germany, 1945.  Left to right: Marshall Johns of Henderson, Ky. Gaskell Warren, Cookeville, Tenn. Roy Joe Baxter, Leoma, Tenn. And Ottis J. Knippers of Lawrenceburg, Tennessee."</abstract>
@@ -82,9 +82,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

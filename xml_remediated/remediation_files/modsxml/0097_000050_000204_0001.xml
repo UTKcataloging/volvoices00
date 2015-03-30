@@ -33,8 +33,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>A black and white photograph of a Red Cross Clubmobile, the "El Paso," in the Argonne Forrest, France. In World War II the American Red Cross collaborated with the U.S. Armed Forces to provide entertainment for the troops.  In 1944, in preparation for the invasion of Normandy, 32 two-and-a-half-ton GMC trucks were converted into Clubmobiles with kitchens and lodging for their crew. Clubmobiles were mobile entertainment, and served troops coffee and doughnuts, distributed cigarettes and played albums. They were each staffed by three American women who received their orders from the Army.  Clubmobiles were given names of states and cities in the United States, hence the "El Paso" pictured here. They served troops in England, France, Italy, Belgium, Luxembourg, and Germany, until May 7, 1945.</abstract>
@@ -94,9 +94,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

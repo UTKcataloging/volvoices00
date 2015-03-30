@@ -25,12 +25,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 object</extent>
-      <form authority="http://vocab.getty.edu/aat/300123013">signs (declatory or advertising artifacts)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123013">signs (declatory or advertising artifacts)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is a sign from the segregation era instructing whites to use one drinking fountain and blacks to use another.  Montgomery, Ala 14 July, 1931</abstract>
-   <genre/>
+   <genre>Regulatory signs</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -65,9 +65,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

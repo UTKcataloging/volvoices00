@@ -37,8 +37,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 poster</extent>
-      <form authority="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300264821">printed ephemera</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This is an advertisement for the Tennessee state races for governor and the U.S. Congress in favor of George M. Winstead and L.C. Houk who are running against George M. Winstead and Mr. Welcker.  All four gubernatorial candidates of 1892, Turney, Buchannan, Winstead and East, pledged to end the leasing of convicts to industries which began in Tennessee in July of 1866.  Coal-mining begin in Tennessee in the 1840s and continues today.</abstract>
@@ -121,9 +121,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

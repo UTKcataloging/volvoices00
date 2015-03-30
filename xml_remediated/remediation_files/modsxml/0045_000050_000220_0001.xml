@@ -36,8 +36,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Sword and sheath.  Sword handle and sheath are gold washed brass. Hilt is in form of an eagle's head with applied decorations.  Blade is of etched steel. Sheath has various military motifs applied as decorations.  Two rings for hanger straps. (hanger missing).  Inscriptions: Inscription 1: made at N.Starrs manufactury Middletown Connecticut.  Inscription 2: This sword is presented by the State of Tennesseee to Major General Andrew Jackson for meretorious service performed in the late war with Great Britain.</abstract>
@@ -93,9 +93,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

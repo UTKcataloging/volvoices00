@@ -29,8 +29,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 pipe</extent>
-      <form authority="http://vocab.getty.edu/aat/300311889">objects</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311889">objects</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Stone pipe carved from a stone from the Alamo.  Two trees and a crude outline of the Alamo etched on bowl.  Above Alamo is a star with the word TEXAS around it.  Below the rendering of the Alamo is etched "ALAMO".  The initials "GWT  to Genl. AJ" are crudely etched on base of the bowl.  Around the square stem are names etched on three sides-Travis, Crockett, Bowie.  On bottom of bowl is a star.  Around top band of bowl reads "Friendship Offerings".</abstract>
@@ -85,9 +85,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>

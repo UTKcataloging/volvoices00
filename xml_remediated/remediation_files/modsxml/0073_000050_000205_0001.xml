@@ -28,8 +28,8 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 photograph</extent>
-      <form authority="http://vocab.getty.edu/aat/300046300">photographs</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>Alfredda Charlotte Delaney, retired Knoxville City School teacher, was active in many civic affairs.  Her major involvements were with the Mechanicsville Citizens for a Better Community, Solutions to Issues of Concern to Knoxvillians (SICK), the Mayor's Task Force for Revitalization of Mechanicsville, and the Knoxville Beautification Board.  A native of Knoxville, Miss Delaney earned her bachelor's degree at Knoxville College and did graduate work at TSU, Columbia University and The University of Tennessee.  Among the many honors she has received are the Mayor's Certificate of Appreciation for community service (1979), honorary membership in the TN House of Representatives (1984), the Golden Apple Award for Teachers (1986), and thhe Presidential Citation from the National Association for Equal Opportunity in Higher Education (1986).  Throughout her distinquished career, Ms. Delaney has been a community activist, and champition of equal opportunity in public and higher education.</abstract>
@@ -87,9 +87,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>

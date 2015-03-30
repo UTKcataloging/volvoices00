@@ -119,6 +119,7 @@
                     <xsl:attribute name="authority">lcgft</xsl:attribute>
                     <xsl:attribute name="valueURI"><xsl:value-of select="genre_URI"/></xsl:attribute>
                 </xsl:if>
+                <xsl:value-of select="genre"/>
             </genre>
         </xsl:if>
     <!-- Language -->  
@@ -268,13 +269,6 @@
                     <xsl:value-of select="project_title"/>
                 </title>
             </titleInfo>
-            <xsl:if test="project_url">
-                <location>
-                    <url>
-                        <xsl:value-of select="project_url"/>
-                    </url>
-                </location>
-            </xsl:if>
         </relatedItem>
         <xsl:for-each select="collection">
             <relatedItem type="host" displayLabel="Collection">
@@ -543,20 +537,18 @@
     </xsl:template>
     <xsl:template match="form_1">
         <form authority="aat">
-            <xsl:attribute name="authority"><xsl:value-of select="../form_URI_1"/></xsl:attribute>
+            <xsl:attribute name="valueURI"><xsl:value-of select="../form_URI_1"/></xsl:attribute>
             <xsl:value-of select="."/>
         </form>
     </xsl:template>
     <xsl:template match="form_2">
         <form authority="aat">
-            <xsl:attribute name="authority"><xsl:value-of select="../form_URI_2"/></xsl:attribute>
+            <xsl:attribute name="valueURI"><xsl:value-of select="../form_URI_2"/></xsl:attribute>
             <xsl:value-of select="."/>
         </form>
     </xsl:template>
     <xsl:template match="internet_media_type">
-        <internetMediaType>
-            <xsl:value-of select="."/>
-        </internetMediaType>
+        <internetMediaType>image/jp2</internetMediaType>
     </xsl:template>
     <xsl:template match="digital_origin">
         <digitalOrigin>

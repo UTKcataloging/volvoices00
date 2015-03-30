@@ -25,12 +25,12 @@
    </originInfo>
    <physicalDescription>
       <extent>1 digital image; 1 certificate</extent>
-      <form authority="http://vocab.getty.edu/aat/300026685">records (documents)</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026685">records (documents)</form>
+      <internetMediaType>image/jp2</internetMediaType>
       <digitalOrigin>reformatted digital</digitalOrigin>
    </physicalDescription>
    <abstract>This certificate attesting to Wilson Bryan's Phrenological Character was issued by Frank Fowler who identified himself as a Professor of Phrenology. The test was completed at Watertown, Wilson Couty, Tennessee. Identifies phrenology as a "moral and intellectual science," and claims that "Self-knowledge is the key to self-improvement." Phenology is completely discredited now and was viewed with great suspicion by many scolars at the time this certificate was issued (1858).</abstract>
-   <genre/>
+   <genre>Certificates</genre>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
    </language>
@@ -91,9 +91,6 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
-      <location>
-         <url>http://diglib.lib.utk.edu/cgi/b/bib/bib-idx?c=vvs-bib&amp;cc=vvs-bib</url>
-      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
