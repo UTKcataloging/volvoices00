@@ -50,9 +50,6 @@
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n89110713">Jamestown (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82084271">Fentress County (Tenn.)</geographic>

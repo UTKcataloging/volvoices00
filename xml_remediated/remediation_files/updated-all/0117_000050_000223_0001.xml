@@ -85,15 +85,9 @@
    </subject>
    <subject>
       <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh95010016">Little Tennessee River Valley (Ga.-Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <geographic>Tellico Lake Region (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037799">Monroe County (Tenn.)</geographic>

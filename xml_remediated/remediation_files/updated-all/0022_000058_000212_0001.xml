@@ -83,9 +83,6 @@
    </subject>
    <subject>
       <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85133885">Tennessee, West</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
       <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>

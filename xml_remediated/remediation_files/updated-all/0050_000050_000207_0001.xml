@@ -59,9 +59,6 @@
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n84152937">Mount Pleasant (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81003708">Maury County (Tenn.)</geographic>

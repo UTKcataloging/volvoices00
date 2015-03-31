@@ -57,9 +57,6 @@
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n83226356">Dover (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81092195">Stewart County (Tenn.)</geographic>

@@ -64,9 +64,6 @@
    </subject>
    <subject>
       <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85034781">Cumberland River (Ky. and Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
       <temporal>Era 5 - Civil War and Reconstruction (1850-1877)</temporal>

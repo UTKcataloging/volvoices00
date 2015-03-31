@@ -72,9 +72,6 @@
    </subject>
    <subject>
       <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n85307675">Watertown (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <temporal>1858-06-08</temporal>

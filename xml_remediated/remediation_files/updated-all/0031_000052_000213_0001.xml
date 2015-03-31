@@ -63,9 +63,6 @@
    </subject>
    <subject>
       <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85034781">Cumberland River (Ky. and Tenn.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject>
       <temporal>1929-10</temporal>

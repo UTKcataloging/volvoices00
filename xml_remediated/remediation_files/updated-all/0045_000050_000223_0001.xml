@@ -66,9 +66,6 @@
    </subject>
    <subject>
       <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85003130">Alamo (San Antonio, Tex.)</geographic>
-      <cartographics>
-         <coordinates>E</coordinates>
-      </cartographics>
    </subject>
    <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
       <temporal>Era 4 - Expansion and Reform (1801-1861)</temporal>
