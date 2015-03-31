@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0015_000060_000210_0001</identifier>
+   <identifier type="filename">0015_000060_000210_0001.jp2</identifier>
+   <name type="personal">
+      <namePart>Frykholm, C.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Clinch River above Loyston, Tennessee before TVA cleared the land</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1934</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1934</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph; 4.75 x 3.36 inches</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This photograph shows the Clinch River above Loyston, Tennessee before TVA cleared the land for Norris Dam.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <subject>
+      <topic>Water resources development--Social aspects--Tennessee--Norris Lake region</topic>
+   </subject>
+   <subject displayLabel="Volunteer Voices Curriculum Topics">
+      <topic>Tennessee Valley Authority and "grass roots democracy"</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Nature and the Environment</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Transportation and Internal Improvements</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80126249">
+         <namePart>Tennessee Valley Authority</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/4645816">Norris Lake</geographic>
+      <cartographics>
+         <coordinates>36.22417N, 84.09139W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82030802">Anderson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.11666N, 84.21667W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0015_000060_000210_0001</recordIdentifier>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordChangeDate encoding="edtf">2015-03-28</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0039_000068_000220_0001</identifier>
+   <identifier type="filename">0039_000068_000220_0001.jp2</identifier>
+   <name type="corporate" authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n50071676">
+      <namePart>Middle Tennessee State University</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>In</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>1961</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1961</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This early IBM card reader, sorter, and printer made registration and other administrative duties more efficient.  In order to facilitate efficiency, MTSC was organized into a system of school in 1962.  In 1991, the University's six schools became colleges.  In 1998, the Honors program became the first Honors College in the state.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Albert Gore Research Center</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>#137, 33</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Murfreesboro</text>
+               <text>County: Rutherford County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85041150">
+      <topic>Educational technology</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Education</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Science and Technology</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n50071676">
+         <namePart>Middle Tennessee State University</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Middle Tennessee State College</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.84555N, 86.39027W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037722">Rutherford County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.85000N, 86.40000W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>MTSU News and Public Affairs Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0039_000068_000220_0001</recordIdentifier>
+      <recordContentSource>Middle Tennessee State University</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-03-20</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

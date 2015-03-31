@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0015_000060_000212_0001</identifier>
+   <identifier type="filename">0015_000060_000212_0001.jp2</identifier>
+   <name type="personal">
+      <namePart>Medley, Warren</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Side camp at Reelfoot Lake, C.C.C. Co. 490</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1934</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1934</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph; 4.5 x 2.8 inches</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This sepia-toned photograph shows tent-like dwellings on stilts of the side camp of C.C.C. Co. 490, in a rural area near Reelfoot Lake in northwestern Tennessee.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <subject displayLabel="Volunteer Voices Curriculum Topics">
+      <topic>Tennessee Valley Authority and "grass roots democracy"</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Transportation and Internal Improvements</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Nature and the Environment</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/4652617">Reelfoot Lake</geographic>
+      <cartographics>
+         <coordinates>36.36500N, 89.40361W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82063491">Gibson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.00028N, 88.93333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81018806">Lake County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.33333N, 89.46667W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0015_000060_000212_0001</recordIdentifier>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordChangeDate encoding="edtf">2015-03-28</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

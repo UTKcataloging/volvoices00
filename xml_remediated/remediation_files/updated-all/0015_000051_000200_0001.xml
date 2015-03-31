@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0015_000051_000200_0001</identifier>
+   <identifier type="filename">0015_000051_000200_0001.jp2</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Josephine A. Pearson, Mrs. James S. Pinkard and a Confederate veteran</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>1920-08</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1920-08</dateCreated>
+      <dateIssued encoding="edtf" keyDate="yes">1920</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph; 10 x 13.75 inches</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Scrapbook page containing a photo of Anti-suffragists with a Confederate veteran at their headquarters at the Hermitage Hotel in August 1920. The caption reads: "Truth crushed to the Earth will rise again" - is illustrated in this lovely picture of Mrs. Jas. S Pinkard, President General of the Southern Women's League for the Rejection of the Susan B. Anthony Amendment, who as grand-niece of John C. Calhoun - unfurls the Confederate flag as emblematical of Southern States Rights fight for the defeat of the Federal Amendment; to her left sits the veteran who "fought and bled" for Tennessee's States Rights; standing to his left, holding the flag of the Union, is Miss Josephine A. Pearson, Pres. of the Tenn. Division of the Southern Women's Rejection League for the Rejection of the Susan B. Anthony Amendment, who led the fight in Tennessee which became the BattleGround of the nation. August 1920.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Pearson, Josephine A. Papers, Box 1, Folder 13</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Nashville</text>
+               <text>County: Davidson County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh">
+      <topic>Women--Suffrage--Tennessee</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh87005351">
+      <topic>Constitutional amendments--United States</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Veterans--Confederate States of America</topic>
+   </subject>
+   <subject displayLabel="Volunteer Voices Curriculum Topics">
+      <topic>Women's Suffrage and Tennessee's pivotal role in passage of 19th Amendment</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Women</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Civil and Human Rights</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Social Reform</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Pearson, Josephine Anderson, 1868-</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Southern Women's League for the Rejection of the Susan B. Anthony Amendment</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Hermitage Hotel (Nashville, Tenn.)</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.16583N, 86.78445W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060705">Davidson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.15000N, 86.78333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0015_000051_000200_0001</recordIdentifier>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2006-12-19</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

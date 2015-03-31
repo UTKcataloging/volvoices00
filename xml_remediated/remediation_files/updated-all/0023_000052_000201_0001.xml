@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0023_000052_000201_0001</identifier>
+   <identifier type="filename">0023_000052_000201_0001.jp2</identifier>
+   <name type="corporate">
+      <namePart>Knoxville Journal</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/att">Attributed name</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>National Guardsman patrol the Clinton, Tennessee community</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n81057210">Clinton (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>1956</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1956</dateCreated>
+      <dateIssued encoding="edtf" keyDate="yes" qualifier="approximate">1956</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>National Guardsman patrol the community of Clinton, Tennessee in a Jeep during the time of the integration of Clinton High School.  Written on verso side: "Protecting Life, Property".</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Knoxville-Knox County Public Library (Knoxville, Tenn.)</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Knoxville</text>
+               <text>County: Knox County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh">
+      <topic>School integration--Tennessee--Clinton--1950-1960</topic>
+   </subject>
+   <subject authority="lcsh">
+      <topic>Racism--Tennessee--Clinton--History</topic>
+   </subject>
+   <subject displayLabel="Volunteer Voices Curriculum Topics">
+      <topic>Civil Rights movement in Tennessee</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Civil and Human Rights</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>African-Americans</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Social Reform</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n50064765">
+         <namePart>United States. National Guard Bureau</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81057210">Clinton (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.10333N, 84.13194W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82030802">Anderson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.11666N, 84.21667W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Clinton High School Desegregation from the Knoxville Journal Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Is Part Of">
+      <titleInfo>
+         <title>Knoxville Journal</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0023_000052_000201_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-03-15</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

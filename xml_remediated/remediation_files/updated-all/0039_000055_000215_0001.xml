@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0039_000055_000215_0001</identifier>
+   <identifier type="filename">0039_000055_000215_0001.jp2</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Soule College</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>approximately between 1908 and 1912</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="approximate">1908</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1912</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 image; 9 x 7.5 inches</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This photograph shows sisters Ethel Licker (second row, third from left) and Bertha Licker (first row, first from left) at Soule College on Maple Street, Murfreesboro.  All three Licker sisters (Esther is not pictured) attended the exclusive girls' school.  Childhood friend Jean Faircloth (Mrs. Douglas MacArthur) is seated on the first row as well (third from right).</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Albert Gore Research Center</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Licker Photo Collection, #498</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Murfreesboro</text>
+               <text>County: Rutherford County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023552">
+      <topic>Children of immigrants</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85070281">
+      <topic>Jewish families</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh87007854">
+      <topic>Early childhood education</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Women</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Education</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Immigrants and Immigration</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Macarthur Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Licker Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n50071679">Murfreesboro (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.84555N, 86.39027W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80037722">Rutherford County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.85000N, 86.40000W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Licker-Goldstein-Weise Family Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0039_000055_000215_0001</recordIdentifier>
+      <recordContentSource>Middle Tennessee State University</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-09-06</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

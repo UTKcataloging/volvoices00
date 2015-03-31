@@ -1,5 +1,5 @@
 # Notes on Repo and of Metadata Remediation
-#### last updated February 26, 2015
+#### last updated March 31, 2015
 
 ---
 
@@ -22,4 +22,18 @@ This repo contains the o.g. MODS for images from Volvoices.
 11. Publishers: too much information included in these datapoints; should be just the publishers' names without publisher location information (this gets stored in mods:place). Transcribing the publishers' names as found on the item is assumed and so the values are left as-is. Publisher location information moved from mods:publisher to mods:placeTerm.
 12. Publishers cont: geographic content moved to place. Publishers left as is, since should be transcribed directly from source. Publishers that are not publishers but rather hosts - i.e., newspapers and magazines - are being moved to mods:relatedItem@type='host' with any relevant issue/part information put there.
 13. Place: mods:place being reconciled with LCNAF. Question of reconciling against GeoNames instead is worth further discussion - boils down to text label versus better URI, dataset API/records. To be discussed as part of digital projects group. 
-14.      
+
+---
+####Updates
+
+#####xml_remediated/remediation_files/modsxml/*.xml
+1. updated mods/identifier[@type='filename'] jpeg to jp2
+2. added a second recordChangeDate to mods/recordInfo with current-date()
+
+#####xml_remediated/remediation_files/tifs-missing-modsxml/*.xml
+1. updated mods/identifier[@type='local'] _0000 to _0001
+2. added mods/identifier[@type='filename'] with the above value, plus the correct internetMediaType; i.e. jp2
+3. updated mods/recordInfo/recordIdentifier to reflect the correct value from mods/identifier
+4. added a second recordChangeDate to mods/recordInfo with current-date()
+5. when writing out the new files, updated the filenames to match mods/identifier[@type='local']
+

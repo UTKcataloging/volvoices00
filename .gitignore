@@ -1,1 +1,5 @@
 .DS_Store
+.idea
+# ignore Vim swap files
+.*.swp
+*~
