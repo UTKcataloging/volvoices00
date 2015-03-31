@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0038_000050_000214_0001</identifier>
+   <identifier type="filename">0038_000050_000214_0001.jp2</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <name type="corporate" authority="naf" valueURI="">
+      <namePart>Bemis Bro. Bag Company</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Slasher room</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n82063401">Bemis (Tenn.)</placeTerm>
+      </place>
+      <place supplied="yes">
+         <placeTerm type="text">Jackson (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>1922</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1922</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>The slasher room at Bemis Cotton Mill.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Union University (Jackson, Tenn.)</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>162</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Jackson</text>
+               <text>County: Madison County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh">
+      <topic>Cotton--Tennessee</topic>
+   </subject>
+   <subject displayLabel="Volunteer Voices Curriculum Topics">
+      <topic>New South period and the industrialization of Tennessee</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Trade, Business and Industry</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n80051064">
+         <namePart>Bemis Bro. Bag Company</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic>Bemis (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n82063402">Madison County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.61666N, 88.85000W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Bemis Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0038_000050_000214_0001</recordIdentifier>
+      <recordContentSource>Memphis Public Library and Information Center</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-03-27</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

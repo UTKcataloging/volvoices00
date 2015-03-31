@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0015_000073_000200_0001</identifier>
+   <identifier type="filename">0015_000073_000200_0001.jp2</identifier>
+   <name type="personal">
+      <namePart>Battre, J. C.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/egr">Engraver</roleTerm>
+      </role>
+   </name>
+   <name type="personal" authority="naf" valueURI="">
+      <namePart>Porter, Robert M. (Robert Massengill), 1818-1856</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Robert Massengill Porter Sketch</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>probably between 1890 and 1958</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="inferred">1890</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1958</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 linear foot</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300041273">prints (visual works)</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This is an engraving of Robert Massengill Porter.  Robert Massengill Porter was the first professor of Anatomy and Physiology in the Medical Department at the University of Nashville.  He was married to Felicia Grundy Porter, daughter of Felix Grundy.</abstract>
+   <genre>Engravings</genre>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+      <holdingSimple>
+         <copyInformation>
+            <shelfLocator>Box 2, Folder 1</shelfLocator>
+         </copyInformation>
+      </holdingSimple>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Nashville</text>
+               <text>County: Davidson County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject displayLabel="Broad Topics">
+      <topic>Education</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Health and Medicine</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/nr2001031779">
+         <namePart>Porter, Robert M. (Robert Massengill), 1818-1856</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>University of Nashville. Medical Department</namePart>
+      </name>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 4 - Expansion and Reform (1801-1861)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Felicia Grundy Porter Papers, 1890-1958</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0015_000073_000200_0001</recordIdentifier>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-08-30</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

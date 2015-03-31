@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0081_000051_000204_0001</identifier>
+   <identifier type="filename">0081_000051_000204_0001.jp2</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Tucker Auditorium Dedication Ceremony Details Reach Here</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n83190688">Shelbyville (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>1965-06-24</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1965-06-24</dateCreated>
+      <dateIssued encoding="edtf" keyDate="yes">1965</dateIssued>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This photograph is titled, "Tucker Auditorium Dedication Ceremony Details Reach Here". This photograph of the Dedication Ceremony acompanied a newspaper article appearing in Shelbyville Times-Gazette. Article identifies the individuals in photograph.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Fly Cultural Arts Center</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Shelbyville</text>
+               <text>County: Bedford County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject displayLabel="Broad Topics">
+      <topic>Education</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Wars and Military</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Tucker Auditorium</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Shelbyville Times-Gazette</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n83190688">Shelbyville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.48333N, 86.46028W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n83190689">Bedford County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.51667N, 86.45000W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Military Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Is Part Of">
+      <titleInfo>
+         <title>Shelbyville Times-Gazette</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0081_000051_000204_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-02-01</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

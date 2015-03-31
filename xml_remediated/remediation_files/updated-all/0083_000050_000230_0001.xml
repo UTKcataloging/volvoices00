@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0083_000050_000230_0001</identifier>
+   <identifier type="filename">0083_000050_000230_0001.jp2</identifier>
+   <name>
+      <namePart>unknown</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/prt">Printer</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Regulatory sign</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>approximately between 1900 and 1950</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="start" qualifier="approximate">1900</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" point="end">1950</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 sign</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300123013">signs (declatory or advertising artifacts)</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This sign is listed as, "Regulatory sign". It came from a textile factory in Englewood, Tennessee.</abstract>
+   <genre>Regulatory signs</genre>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Englewood Textile Museum</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Englewood</text>
+               <text>County: McMinn County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject displayLabel="Broad Topics">
+      <topic>Trade, Business and Industry</topic>
+   </subject>
+   <subject>
+      <geographic>Englewood (Tenn.)</geographic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81112582">McMinn County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.43333N, 84.60000W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0083_000050_000230_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-02-05</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

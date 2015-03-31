@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0093_000051_000203_0001</identifier>
+   <identifier type="filename">0093_000051_000203_0001.jp2</identifier>
+   <name type="corporate">
+      <namePart>Fisk University. Office of Public Information</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Dedication of the George Gershwin Collection at the Fisk University Library</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <place supplied="yes">
+         <placeTerm type="text" valueURI="http://id.loc.gov/authorities/names/n78095801">Nashville (Tenn.)</placeTerm>
+      </place>
+      <dateCreated>1947-04-25</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1947-04-25</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>1 tif. A black and white photograph of the dedication of the George and Ira Gershwin Library at Fisk University in Nashville, Tennessee.  The people posing for the photograph are L. Hollingsworth Wood, W. C. Handy, John W. Work, Virgil Thomson, Phillippa Duke Schuyler, and Dr. G. N. Redd. George Gershwin, along with his brother Ira who was a lyricist, created some of the most popular music of the 20th century. He wrote for Broadway including the show "Funny Face," and his most well-known titles include "Rhapsody in Blue," "Concerto in F," "An American in Paris." George, his brother, Du Bose Heyward, and Dorothy Heyward wrote "Porgy and Bess." George died of a brain tumor in 1937 at age 39; he was awarded a Pulitzer Prize posthumously in 1998.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Fisk University. Library &amp; Media Center. University Special Collections and Archives</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Nashville</text>
+               <text>County: Davidson County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85076584">
+      <topic>Academic libraries</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85076584">
+      <topic>Academic libraries</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Education</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Arts and Literature</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>African-Americans</topic>
+   </subject>
+   <subject>
+      <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n79077265">
+         <namePart>Gershwin, George, 1898-1937</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Fisk University. Library</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79060705">Davidson County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.15000N, 86.78333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 9 - Postwar United States (1945-1970's)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Picture File</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0093_000051_000203_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2007-12-21</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

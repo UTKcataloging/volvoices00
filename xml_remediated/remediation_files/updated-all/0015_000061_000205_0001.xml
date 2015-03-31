@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0015_000061_000205_0001</identifier>
+   <identifier type="filename">0015_000061_000205_0001.jp2</identifier>
+   <name type="personal">
+      <namePart>Rankin, Anne Porterfield, 1887-1941</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Two columns of troops marching with Wright flyer seen overhead</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1916</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1916</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photography; 10.3 x 8 inches</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>This photograph shows two columns of troops, possibly French, marching during World War I. There is a Wright flyer flying above the town towards which they march.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Tennessee State Library and Archives</physicalLocation>
+   </location>
+   <subject>
+      <topic>World War, 1914-1918--Military personnel</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/sh86000359#concept">
+      <topic>Wright Flyer (Airplane)</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Wars and Military</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Transportation and Internal Improvements</topic>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 7 - The Emergence of Modern America (1890-1930)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Public domain.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0015_000061_000205_0001</recordIdentifier>
+      <recordContentSource>Tennessee State Library and Archives</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordChangeDate encoding="edtf">2015-03-28</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>

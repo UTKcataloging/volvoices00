@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0031_000050_000215_0001</identifier>
+   <identifier type="filename">0031_000050_000215_0001.jp2</identifier>
+   <name type="personal">
+      <namePart>MacMillan, Hugh W.</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/dnr">Donor</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Outside the Mullins' barn</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1935</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1935</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <extent>1 digital image; 1 photograph</extent>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>A photograph of seven people (the Mullins?) taken outside the Mullins' barn. From the collection of Dr. Hugh W. MacMillan. From the donation letter: Dr. MacMillan was a dentist from Cincinnati, Ohio who went down at the request of the board to give the students dental check-ups. Dr. MacMillan died in 1992 at the age of 101, and left this collection behind. Overton County, From state plaque - Alpine School - Organized by Dr. John L. Dillard on the top of Alpine Mountain in 1821, the school was moved off the mountain after the Civil War and named Alpine Institute. A. H. Roberts, later governor, taught there. County: Overton</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <location>
+      <physicalLocation>Angelo &amp; Jennette Volpe Library &amp; Media Center</physicalLocation>
+      <holdingExternal>
+         <holding xmlns:iso20775="info:ofi/fmt:xml:xsd:iso20775"
+                  xsi:schemaLocation="info:ofi/fmt:xml:xsd:iso20775 http://www.loc.gov/standards/iso20775/N130_ISOholdings_v6_1.xsd">
+            <physicalAddress>
+               <text>City: Cookeville</text>
+               <text>County: Putnam County</text>
+               <text>State: Tennessee</text>
+            </physicalAddress>
+         </holding>
+      </holdingExternal>
+   </location>
+   <subject displayLabel="Broad Topics">
+      <topic>Farming and Agriculture</topic>
+   </subject>
+   <subject displayLabel="Broad Topics">
+      <topic>Family Life and Gender Relations</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Mullins Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79075040">Overton County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.45000N, 85.28333W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n90638641">Alpine (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>36.39472N, 85.21694W</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <temporal>1935</temporal>
+   </subject>
+   <subject displayLabel="Tennessee Social Studies K-12 Eras in American History">
+      <temporal>Era 8 - The Great Depression and World War II (1929-1945)</temporal>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Volunteer Voices</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Alpine School Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0031_000050_000215_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+      <recordCreationDate encoding="edtf">2008-01-15</recordCreationDate>
+      <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+   </recordInfo>
+</mods>
