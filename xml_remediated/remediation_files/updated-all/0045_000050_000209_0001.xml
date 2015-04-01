@@ -81,6 +81,9 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
+      <location>
+         <url>http://digital.lib.utk.edu/collections/volvoices</url>
+      </location>
    </relatedItem>
    <relatedItem type="host" displayLabel="Collection">
       <titleInfo>
@@ -98,5 +101,6 @@
       <recordCreationDate encoding="edtf">2007-05-31</recordCreationDate>
       <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
       <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
    </recordInfo>
 </mods>

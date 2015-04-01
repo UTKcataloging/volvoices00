@@ -65,6 +65,9 @@
       <titleInfo>
          <title>Volunteer Voices</title>
       </titleInfo>
+      <location>
+         <url>http://digital.lib.utk.edu/collections/volvoices</url>
+      </location>
    </relatedItem>
    <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
    <recordInfo>
@@ -77,5 +80,6 @@
       <recordCreationDate encoding="edtf">2008-02-11</recordCreationDate>
       <recordChangeDate encoding="edtf">2015-03-23</recordChangeDate>
       <recordChangeDate encoding="edtf">2015-03-31</recordChangeDate>
+      <recordChangeDate encoding="edtf">2015-04-01</recordChangeDate>
    </recordInfo>
 </mods>
